@@ -1,0 +1,25 @@
+# Crowdin credentials pulled from environment or .crowdin.yml
+"project_id_env": "CROWDIN_PROJECT_ID"
+"api_token_env": "CROWDIN_PERSONAL_TOKEN"
+"project_id" : "projectId"
+"api_token" : "personal-access-token"
+
+"base_path" : "."
+"base_url" : "https://api.crowdin.com"
+
+# Choose file structure in Crowdin e.g. true or false
+"preserve_hierarchy": true
+
+# Files configuration
+files: [
+ {
+  # Pull or markdown files
+  "source" : "/**/*.md",
+
+  # Translations are in the filename.LN.md where LN is the two character language code.
+  "translation" : "/**/%file_name%.%two_letters_code%.%file_extension%",
+
+  # Files or directories for ignore
+  "ignore" : ["LICENSE", "CHANGELOG.md", ".gitignore", ".all-contributorsrc"],
+ }
+]
