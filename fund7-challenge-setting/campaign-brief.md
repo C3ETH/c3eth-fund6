@@ -1,5 +1,7 @@
 # Fund7 challenge setting
 
+What Challenges should the community prioritize to address in Fund7?
+
 Fund Size: **$5,400,000 in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26120) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified).

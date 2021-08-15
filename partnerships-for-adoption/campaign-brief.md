@@ -1,5 +1,7 @@
 # Partnerships for Global Adoption
 
+ow can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?
+
 Fund Size: **$30,000 in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26114) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26114/stage/unspecified).
