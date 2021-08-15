@@ -85,7 +85,9 @@ Some ideas already sugguested include:
 To ensure the various communities- Catalyst Swarm, School, and ETH don't compete are map of the proposals is maintained on the [Miro Board](https://miro.com/app/board/o9J_l2_uFQI=/).
 ### Translation Process
 
-Our intention is all proposals will be fully translated into languages from the eastern hemisphere. The aim is to enable the widest possible inclusion into the Catalyst process. **Return on Intention** is international participation. To stream line the translation of all the proposals we will be using [Crowdin](https://crowdin.com/) to automate the process.
+Our intention is all proposals will be fully translated into languages from the eastern hemisphere. The aim is to enable the widest possible inclusion into the Catalyst process. **Return on Intention** is international participation. To stream line the translation of all the proposals we will be using [Crowdin](https://crowdin.com/project/c3eth-fund6) to automate the process.
+
+**CONTRIBUTING TO TRANSLATIONS:** You can contribute to translations by signing up to [Crowdin](https://crowdin.com/project/c3eth-fund6) and begin translating the content listed in the project. c3eth team members will check over your translations and approve them or offer improvements. The translations will be pulled into the `I10n_main` branch of this repository and periodically merged into `main`.
 
 This workflow will be extended to include the translation of the website content and and videos we produce.
 
