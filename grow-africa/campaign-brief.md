@@ -48,3 +48,7 @@ Cardano shines when adoption is global. Africa currently has young entrepreneurs
 ## Prior Challenges
 
 1. [Fund 5: Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/campaign-home/25947)
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088)

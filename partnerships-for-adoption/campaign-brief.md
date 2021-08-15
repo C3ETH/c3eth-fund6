@@ -21,3 +21,6 @@ Establishment of Local Community Centers in 130 countries backed by Cardano Foun
 - 10 proposals put forward for voting
 - Partnerships formalized with in 3 months by Cardano Foundation
 - Local Community Centers established with in 6 months
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Partnerships-for-Global-Adoption/340504-48088)

@@ -35,3 +35,6 @@ Local Community Hubs across the world where the average person can take part in 
 ## Prior Challenges
 
 1. [Fund4: Local Community Centers](https://cardano.ideascale.com/a/campaign-home/25873)
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-Community-Hubs/352534-48088)

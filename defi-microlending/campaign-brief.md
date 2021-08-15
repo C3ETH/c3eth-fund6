@@ -19,3 +19,7 @@ Businesses are confident to submit well-researched proposals that address the Af
 - Submitted proposals well researched, viable and addresses traditional African financial cultural norms and practices
 - 3 or more successfully funded micro-lending and Defi dApp launched within the next 3 funding rounds
 - Minimum 50% user adoption in funded proposal's target market within 2 years
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DeFi-and-Microlending-for-Africa/340138-48088)

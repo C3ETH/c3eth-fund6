@@ -54,3 +54,7 @@ Considering that the idea is to audit and report on the development of proposals
 - Indicators of: transactions, volume and unique wallets interacting with dapps.
 - Number of smart contracts audited.
 - Social media engagement indicators.
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/25946/stage/unspecified)

@@ -30,3 +30,7 @@ Higher quality of proposal submitted to Catalyst so entrepreneurs become confide
 - Difference in score of applicants using the toolbox and those not using the tools.
 - Gaps that are filled in the entrepreneurial skills base of project teams from the start of ideation through project delivery.
 - Sustainability of venture plans beyond the scope of Catalyst development project.
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/DLT-Entrepreneurship-Toolbox/341809-48088)

@@ -29,3 +29,7 @@ Many high quality ideas will be proposed that can substantially grow Cardano's u
 - The number of proposals that directly address NFT use cases in a quantifiable manner.
 - The quality of proposals measured by community interest and engagement.
 - Results of any Fund7 funded projects significantly impacting NFT utility on the Cardano blockchain.
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/NFT-Business-models/352815-48088)
+2. [Fund4 Challenge setting proposal](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/334524-48088)

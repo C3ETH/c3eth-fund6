@@ -30,3 +30,7 @@ A competitive environment for DeFi on Cardano with an emphasis on cross-collabor
 ## Prior Challenges
 
 1. [Fund5: Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/campaign-home/25948)
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Scale-UP-Cardano-s-DeFi-Ecosystem/333399-48088)

@@ -33,3 +33,7 @@ Many high quality ideas will be proposed that can substantially grow Cardano's u
 - The number of proposals that directly address DID use cases in a quantifiable manner.
 - The quality of proposals measured by community interest and engagement.
 - Results of any Fund7 funded projects significantly impacting mass-scale adoption of DID's and their utility on the Cardano blockchain.
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)

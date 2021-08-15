@@ -28,3 +28,7 @@ At the end of this challenge, we should be asking ourselves: Did we manage to cr
 - Grouping of threat sources into categories and types to determine wider danger areas
 - Number of Cardano stakeholders interacting with the threat alert mechanism
 - Number of Catalyst proposals submitted and accepted for funding in subsequent funding rounds to directly address the most pressing identified threats.
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Cardano-Emerging-Threat-Alarm/340926-48088)

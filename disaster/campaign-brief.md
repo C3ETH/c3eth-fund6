@@ -36,3 +36,7 @@ Likely points of failure identified. Disaster communication channels set up. Rec
 - have proposals been developed for building in different kinds of redundancies?
 - have new benchmarks been developed to measure whether the Cardano stake pool network is safer, more stable, more resilient and more decentralized?
 - have wider screening of risk sources been performed: CyberSecurity, political and regulatory risks, internet-related risks etc.
+
+## References
+
+1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Disaster-When-all-is-at-stake/351012-48088)
