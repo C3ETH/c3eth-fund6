@@ -1,13 +1,25 @@
 {
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
-
-  "projectName": "Catalyst Fund 6 Proposals",
+  "projectName": "c3eth-fund6",
   "projectOwner": "C3ETH",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "skipCi": "true",
-  "contributors": []
+  "skipCi": true,
+  "contributors": [
+    {
+      "login": "wolstaeb",
+      "name": "Robert O'Brien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/82072426?v=4",
+      "profile": "https://github.com/wolstaeb",
+      "contributions": [
+        "infra",
+        "maintenance"
+      ]
+    }
+  ]
 }
