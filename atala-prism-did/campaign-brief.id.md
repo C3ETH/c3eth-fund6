@@ -1,6 +1,6 @@
-# Atala PRISM DID Mass-Scale Adoption
+# Adopsi Massal Atala PRISM DID
 
-What will drive mass-scale adoption of decentralized IDs on Cardano?
+Apa yang akan mendorong adopsi massal IDs yang terdensentralisasi diatas Cardano?
 
 Fund Size: **$250,000 in Ada**
 
