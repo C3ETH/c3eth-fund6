@@ -2,13 +2,13 @@
 
 Apa yang akan mendorong adopsi massal IDs yang terdensentralisasi diatas Cardano?
 
-Fund Size: **$250,000 in Ada**
+Dana Tersedia: **$250,000 dalam Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26116) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26116) and [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
 
-## Campaign Brief
+## Penjelasan Singkat Kampanye
 
-Propose a means or way to drive mass-scale adoption of DID usage as an easy-to-use onramp to the Cardano ecosystem (preferably Atala PRISM when released). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.
+Menawarkan cara untuk mendorong adopsi massal pengunaan DID sebagai metode-yang-mudah-digunakan untuk mengenalkan ekosistem Cardano (lebih disukai melalui Atala PRISM ketika sudah siap diluncurkan). Ini dapat termasuk metode apapun yang akan menawarkan pengguna atau instansi sebuah ID yang terdesentralisasi untuk memulai memberi arti terhadap kedaultan diri. Pikirkan bagaimana caranya ini dapat di implementasi secara skalatis untuk membawa masuk jutaan pengguna yang, begitu sudah memakai, dapat menjadi pelanggan untuk dApps, aneka tools, DeFi dan berbagai macam servis lainnya.
 
 We are a community of thought leaders and it is time to demonstrate our thoughts with actions. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
 
