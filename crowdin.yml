@@ -13,3 +13,4 @@ files:
       - CHANGELOG.md
       - .gitignore
       - .all-contributorsrc
+      - /**/insight.md
