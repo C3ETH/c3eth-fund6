@@ -106,7 +106,7 @@ See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
 Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -115,6 +115,7 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
 <table>
   <tr>
     <td align="center"><a href="https://github.com/wolstaeb"><img src="https://avatars.githubusercontent.com/u/82072426?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Robert O'Brien</b></sub></a><br /><a href="#infra-wolstaeb" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-wolstaeb" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/YanTirta"><img src="https://avatars.githubusercontent.com/u/87646261?v=4?s=100" width="100px;" alt=""/><br /><sub><b>YanTirta</b></sub></a><br /><a href="#translation-YanTirta" title="Translation">🌍</a></td>
   </tr>
 </table>
 
