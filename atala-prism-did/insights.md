@@ -18,6 +18,8 @@ Fund Size: **$250,000 in Ada**
 
 [Insight Link](https://cardano.ideascale.com/a/dtd/Web-of-Trust-Digital-Identity/365434-48088)
 
+Proposer: Robert O'Brien (@wolstaeb)
+
 Make it easier for membership organisations and indigenous peoples to onboard members. Help them create non-government credentials under their control. Such tools become the basis for developing an economic identity for these legal entities.
 
 Examples include giving community members the tools needed to educate, help and onboard others in their community. Initial non-government credentials verified, can assert membership to a savings group, or being a member of a tribe.
