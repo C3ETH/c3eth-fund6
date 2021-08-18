@@ -4,9 +4,9 @@
 
 Giá trị quỹ: **$250,000 Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26116) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
+[Trang dự án](https://cardano.ideascale.com/a/campaign-home/26116) và [duyệt các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
 
-## Campaign Brief
+## Tóm tắt dự án
 
 Propose a means or way to drive mass-scale adoption of DID usage as an easy-to-use onramp to the Cardano ecosystem (preferably Atala PRISM when released). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.
 
