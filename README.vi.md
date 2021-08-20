@@ -4,11 +4,11 @@ Primary working repository for all the source work toward C3ETH's Catalyst Fund 
 ## Bảng nội dung
 
 - [C3ETH Fund 6 Proposal Development](#c3eth-fund-6-proposal-development)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Why Collaborate?](#why-collaborate)
-  - [Current Status](#current-status)
-  - [Fund 6 Challenges](#fund-6-challenges)
+  - [Bảng nội dung](#table-of-contents)
+  - [Giới thiệu](#introduction)
+    - [Tại sao phải hợp tác?](#why-collaborate)
+  - [Tình trạng hiện tại](#current-status)
+  - [Những thử thách của Quỹ đầu tư số 6](#fund-6-challenges)
   - [Proposal Development Process](#proposal-development-process)
     - [Mapping Proposals](#mapping-proposals)
     - [Translation Process](#translation-process)
