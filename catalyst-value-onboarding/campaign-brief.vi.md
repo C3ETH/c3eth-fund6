@@ -1,6 +1,6 @@
 # Catalyst value onboarding
 
-How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
+Cách để khuyến khích sự tham gia có ý nghĩa từ phía các thành viên của cộng đồng cho Dự án Catalyst trong hai quỹ đầu tư tiếp theo?
 
 Fund Size: **$75,000 in Ada**
 
