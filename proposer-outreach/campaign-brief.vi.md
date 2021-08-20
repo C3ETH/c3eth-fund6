@@ -1,6 +1,6 @@
-# Proposer outreach
+# Tiếp cận nhà đề xuất
 
-How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
+Làm cách nào để khuyến khích các doanh nhân từ bên ngoài hệ sinh thái Cardano gửi đề xuất cho Catalyst trong hai quỹ đầu tư tiếp theo?
 
 Fund Size: **$100,000 in Ada**
 
