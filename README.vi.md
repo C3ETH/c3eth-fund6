@@ -1,7 +1,7 @@
 # C3ETH Fund 6 Proposal Development
 
 Primary working repository for all the source work toward C3ETH's Catalyst Fund 6 Proposals.
-## Table of Contents
+## Bảng nội dung
 
 - [C3ETH Fund 6 Proposal Development](#c3eth-fund-6-proposal-development)
   - [Table of Contents](#table-of-contents)
