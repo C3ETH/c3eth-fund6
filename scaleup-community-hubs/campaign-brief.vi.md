@@ -1,6 +1,6 @@
-# Scale-UP Cardano's Community Hubs
+# Mở rộng quy mô các trung tâm cộng đồng của Cardano
 
-How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?
+Làm cách nào để khuyến khích các Trung tâm cộng đồng địa phương thúc đẩy việc áp dụng và nhận thức về Cardano trong 6 tháng tới?
 
 Fund Size: **$100,000 in Ada**
 
