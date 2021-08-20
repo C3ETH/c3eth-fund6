@@ -6,13 +6,13 @@ Fund Size: **$250,000 in Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26103) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26103/stage/unspecified).
 
-## Campaign Brief
+## Tóm tắt chiến dịch
 
 Quality Dapps and integrations will increase utility & adoption of Cardano.
 
 ## How success looks like
 
-Novel and viable applications get built of top of Cardano attracting users. Integrations manage to pull in more adoption.
+Các ứng dụng mới và khả thi được xây dựng hàng đầu của Cardano thu hút nhiều người dùng. Integrations manage to pull in more adoption.
 
 ## Key metric to measure
 
