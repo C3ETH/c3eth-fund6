@@ -1,4 +1,4 @@
-# Grow Africa, Grow Cardano
+# Phát triển Châu Phi, Phát triển Cardano
 
 How do we seed and grow Cardano in Africa?
 
