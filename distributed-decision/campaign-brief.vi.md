@@ -1,6 +1,6 @@
-# Distributed decision making
+# Đưa ra quyết định phân bổ
 
-How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
+Làm cách nào để giúp cộng đồng Catalyst làm tốt hơn trong việc đưa ra quyết định phân bổ trong hai vòng Catalyst tiếp theo?
 
 Fund Size: **$75,000 in Ada**
 
