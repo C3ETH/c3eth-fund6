@@ -1,4 +1,4 @@
-# Partnerships for Global Adoption
+# Quan hệ đối tác cho việc phát triển toàn cầu
 
 ow can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?
 
