@@ -1,6 +1,6 @@
 # Cardano Emerging Threat Alarm
 
-How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?
+Làm cách nào để giúp các bên liên quan xác định các mối đe dọa có hệ thống nghiêm trọng rõ rệt đối với Cardano blockchain trước khi một mối đe dọa vượt qua hệ thống?
 
 Fund Size: **$50,000 in Ada**
 
