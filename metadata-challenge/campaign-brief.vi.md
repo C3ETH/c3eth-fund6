@@ -1,6 +1,6 @@
-# Metadata challenge
+# Thử thách siêu dữ liệu
 
-How can we utilize transaction metadata to solve real world problems?
+Làm cách nào chúng ta có thể sử dụng giao dịch siêu dữ liệu để giải quyết các vấn đề trong thế giới thực?
 
 Fund Size: **$100,000 in Ada**
 
