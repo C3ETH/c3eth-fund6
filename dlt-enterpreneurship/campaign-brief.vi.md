@@ -1,4 +1,4 @@
-# DLT Entrepreneurship Toolbox
+# Hộp công cụ khởi nghiệp Công nghệ sổ cái phân tán
 
 How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?
 
