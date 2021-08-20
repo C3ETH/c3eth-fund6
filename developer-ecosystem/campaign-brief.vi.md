@@ -1,6 +1,6 @@
 # Developer ecosystem
 
-How can we create a positive developer experience that helps the developer focus on building successful apps?
+Làm cách nào để tạo ra trải nghiệm tích cực cho nhà phát triển giúp họ tập trung vào vào việc xây dựng thành công các ứng dụng?
 
 Fund Size: **$1,005,000 in Ada**
 
