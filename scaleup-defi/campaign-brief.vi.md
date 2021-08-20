@@ -1,7 +1,7 @@
 
-# Scale-UP Cardano's DeFi Ecosystem
+# Mở rộng quy mô hệ sinh thái Tài chính phi tập trung của Cardano
 
-How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?
+Làm cách nào để có thể khuyến khích các nhóm Tài chính phi tập trung xây dựng / triển khai các giải pháp tài chính mở trên Cardano trong 6 tháng tới?
 
 Fund Size: **$200,000 in Ada**
 
