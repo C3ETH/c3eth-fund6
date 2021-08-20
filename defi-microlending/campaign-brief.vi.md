@@ -1,4 +1,4 @@
-# DeFi and Microlending for Africa
+# Tài chính phi tập trung và Khoản vay vi mô cho Châu Phi
 
 Fund Size: **$90,000 in Ada**
 
