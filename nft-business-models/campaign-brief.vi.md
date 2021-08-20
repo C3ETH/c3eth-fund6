@@ -1,4 +1,4 @@
-# NFT Business models
+# Những mô hình kinh doanh mã thông báo không thể thay thế
 
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
 
