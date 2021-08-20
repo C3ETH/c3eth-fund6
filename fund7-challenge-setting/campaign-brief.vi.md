@@ -1,6 +1,6 @@
-# Fund7 challenge setting
+# Thiết lập thử thách trong Quỹ đầu tư số 7
 
-What Challenges should the community prioritize to address in Fund7?
+Những thử thách nào mà cộng đồng nên ưu tiên giải quyết trong Quỹ đầu tư số 7?
 
 Fund Size: **$5,400,000 in Ada**
 
