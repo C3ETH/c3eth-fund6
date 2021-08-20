@@ -1,6 +1,6 @@
-# Multilingual resources
+# Tài nguyên đa ngôn ngữ
 
-How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
+Làm cách nào để thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong vòng 3 đến 6 tháng tới?
 
 Fund Size: **$75,000 in Ada**
 
@@ -8,7 +8,7 @@ Fund Size: **$75,000 in Ada**
 
 ## Campaign Brief
 
-The English language could be a barrier for a lot of people around the world when they try to learn about Cardano and blockchain technology.
+Ngôn ngữ tiếng Anh có thể là rào cản cho nhiều người trên thế giới khi họ muốn tìm hiểu về Cardano và công nghệ blockchain.
 
 At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.
 
