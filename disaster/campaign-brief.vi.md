@@ -1,4 +1,4 @@
-# Disaster: When all is at stake
+# Rủi ro: Khi tất cả đang bị gặp trắc trở
 
 How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner?
 
