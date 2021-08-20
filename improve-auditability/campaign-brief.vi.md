@@ -1,6 +1,6 @@
-# Improve and Grow Auditability
+# Cải thiện và phát triển khả năng kiểm toán
 
-How to make the auditing process of funded proposals efficient, distributed and transparent?
+Làm cách nào để quá trình kiểm tra các đề xuất được tài trợ hiệu quả, phân bổ và minh bạch?
 
 Fund Size: **$100,000 in Ada**
 
