@@ -1,6 +1,6 @@
 # Phát triển Châu Phi, Phát triển Cardano
 
-How do we seed and grow Cardano in Africa?
+Làm cách nào để ươm mầm và phát triển Cardano ở Châu Phi?
 
 Fund Size: **$200,000 in Ada**
 
