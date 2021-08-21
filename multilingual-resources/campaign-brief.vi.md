@@ -2,7 +2,7 @@
 
 Làm cách nào để thúc đẩy những người không nói tiếng Anh học hỏi và phát triển hệ sinh thái Cardano trong vòng 3 đến 6 tháng tới?
 
-Fund Size: **$75,000 in Ada**
+Giá trị quỹ: **$75,000 Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26111) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified).
 
