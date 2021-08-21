@@ -2,7 +2,7 @@
 
 What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?
 
-Fund Size: **$200,000 in Ada**
+Giá trị quỹ: **$200,000 Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26115) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26115/stage/unspecified).
 
