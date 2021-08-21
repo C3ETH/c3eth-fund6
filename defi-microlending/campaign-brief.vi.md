@@ -1,6 +1,6 @@
 # Tài chính phi tập trung và Khoản vay vi mô cho Châu Phi
 
-Fund Size: **$90,000 in Ada**
+Giá trị quỹ: **$90,000 Ada**
 
 How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?
 
