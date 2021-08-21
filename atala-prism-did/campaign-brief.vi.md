@@ -2,7 +2,7 @@
 
 Điều gì sẽ thúc đẩy việc áp dụng quy mô lớn các ID phi tập trung trên Cardano?
 
-Giá trị quỹ: **$250,000 Ada**
+Giá trị quỹ:**$250,000 Ada**
 
 [Trang dự án](https://cardano.ideascale.com/a/campaign-home/26116) và [duyệt các ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
 
