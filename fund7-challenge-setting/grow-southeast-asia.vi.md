@@ -1,6 +1,6 @@
-# Grow South-East Asia, Grow Cardano
+# Phát triển Đông Nam Á, Phát triển Cardano
 
-## Challenge question:
+## Câu hỏi thách thức:
 How do we seed and grow Cardano in South-East Asia?
 
 How do we identify and nurture super-spreader proposals across the whole of South-East Asia?
