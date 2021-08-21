@@ -1,34 +1,29 @@
-# Kembangkan Asia Tenggara, Kembangkan Cardano
+# Grow East Asia, Grow Cardano
 
 ## Tantangan:
-Bagaimana cara kita memulai dan mengembangkan Cardano di Asia Tenggara?
-
-Bagaimana kita menemukan dan mengembangkan 'super-spreader proposals' di seluruh Asia Tenggara?
+How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
 
 ## Mengapa ini penting?
-Cardano bersinar ketika adopsinya global. Asia Tenggara saat ini memiliki banyak pengusaha-pengusaha muda, potensi berkembang yang luar biasa dan..
+The Cardano community is heavily based in North America and Europe. Growth elsewhere requires our support and initiative as a community.
 
 ## Bagaimana gambaran kesuksesannya?
-Cardano dipandang sebagai blockchain publik terbaik yang beroperasi di Asia Tenggara.
-
-Proyek-proyek Cardano di Asia Tenggara tidak terisolasi, tetapi terhubung dan berkembang.
+A wide spectrum of people from Asia or with connections to Asia coming together and forming teams to grow our ecosystem.
 
 ## Barometer Utama untuk diukur
 
-- Number of purely South-East Asian participants
-- Number of Outside South-East Asian participants with a significant partnership with South-East Asia residents
-- Feedback on progress from successful proposals regardless of failure or success
-- Novelty and appropriateness of solutions (hard to quantify, easy to see)
-- Number of South-East Asia Fund7 proposals that do not need further funding to keep operating
+The quantity and quality of funded proposals as well as the impact observed.
 
+A steady increase in SPOs and transactions in East Asia.
 
 ## Challenge brief
 
-South-East Asia is fertile ground for the adoption of Cardano. Having a funding round that focuses on South-East Asia is a win, win, win scenario. South-East Asia wins by getting some backing. Commercial projects that are already building up in South-East Asia win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.
+As in Africa, raising the awareness levels of regular people in East Asia about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to me to be why we work together, doesn't it?
 
-Cardano started life in South-East Asia (Japan and Hong Kong). Focussing on South-East Asia is a strategy that has been promoted and is openly pursued by Emurgo.
+The overwhelming majority of stake pools are based in North America and Europe. The Cardano protocol will be much more resilient and productive for people all around the world when the Catalyst community steps up and intentionally funds people around the world.
 
-The ROI is likely to be high because community sponsored projects are better run in young and developing economies.
+Addressing these different parts of the world directly through funding challenges such as this gives them access to our community and thereby a means of support as they engage with the Cardano ecosystem.
+
+The amount of funding which is proposed equals 6.25 % of the total available for Fund 7. The suggestion is that this is a nice percentage to use as a guide for future rounds when funding increases for all of the challenges that focus on specific regions.
 
 ## What this is:
 
