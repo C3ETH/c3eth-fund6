@@ -1,19 +1,19 @@
-# Grow South-East Asia, Grow Cardano
+# Kembangkan Asia Tenggara, Kembangkan Cardano
 
-## Challenge question:
-How do we seed and grow Cardano in South-East Asia?
+## Tantangan:
+Bagaimana cara kita memulai dan mengembangkan Cardano di Asia Tenggara?
 
-How do we identify and nurture super-spreader proposals across the whole of South-East Asia?
+Bagaimana kita menemukan dan mengembangkan 'super-spreader proposals' di seluruh Asia Tenggara?
 
-## Why is it important?
-Cardano shines when adoption is global. South-East Asia currently has young entrepreneurs, great growth potential and a government contract imminent.
+## Mengapa ini penting?
+Cardano bersinar ketika adopsinya global. Asia Tenggara saat ini memiliki banyak pengusaha-pengusaha muda, potensi berkembang yang luar biasa dan..
 
-## How does success look like?
-Cardano is considered the best public block-chain operating in South-East Asia.
+## Bagaimana gambaran kesuksesannya?
+Cardano dipandang sebagai blockchain publik terbaik yang beroperasi di Asia Tenggara.
 
-Cardano projects in South-East Asia are not isolated but networked and growing.
+Proyek-proyek Cardano di Asia Tenggara tidak terisolasi, tetapi terhubung dan berkembang.
 
-## Key Metrics to measure
+## Barometer Utama untuk diukur
 
 - Number of purely South-East Asian participants
 - Number of Outside South-East Asian participants with a significant partnership with South-East Asia residents
