@@ -2,7 +2,7 @@
 
 Làm cách nào để giúp cộng đồng Catalyst làm tốt hơn trong việc đưa ra quyết định phân bổ trong hai vòng Catalyst tiếp theo?
 
-Fund Size: **$75,000 in Ada**
+Giá trị quỹ: **$75,000 Ada**
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26104) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
 
