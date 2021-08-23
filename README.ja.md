@@ -1,28 +1,28 @@
 # C3ETH Fund 6 Proposal Development
 
-Primary working repository for all the source work toward C3ETH's Catalyst Fund 6 Proposals.
-## Table of Contents
+すべてのソースの主要作業リポジトリは、C3ETHのCatalyst Fund6の提案に向けて動作します。
+## 目次
 
 - [C3ETH Fund 6 Proposal Development](#c3eth-fund-6-proposal-development)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-    - [Why Collaborate?](#why-collaborate)
-  - [Current Status](#current-status)
-  - [Fund 6 Challenges](#fund-6-challenges)
-  - [Proposal Development Process](#proposal-development-process)
-    - [Mapping Proposals](#mapping-proposals)
-    - [Translation Process](#translation-process)
-  - [Change Log](#change-log)
-  - [Acknowledgements](#acknowledgements)
-  - [Contributors ✨](#contributors-)
-  - [License](#license)
+  - [目次](#table-of-contents)
+  - [はじめに](#introduction)
+    - [なぜコラボレーションするのですか？](#why-collaborate)
+  - [現在の状態](#current-status)
+  - [Fund 6チャレンジ](#fund-6-challenges)
+  - [提案開発プロセス](#proposal-development-process)
+    - [提案のマッピング](#mapping-proposals)
+    - [翻訳プロセス](#translation-process)
+  - [変更履歴](#change-log)
+  - [謝辞](#acknowledgements)
+  - [貢献者 ✨](#contributors-)
+  - [ライセンス](#license)
 
-## Introduction
+## はじめに
 
-Project Catalyst is the beginning of bringing on-chain governance to Cardano. It is a series of experiments which leverage the collective intelligence of the Catalyst community to determine the future direction and development of the Cardano ecosystem. Through a series of ‘innovation funds’, the community sources brilliant ideas, decided via a vote, and the Treasury finances the best ideas for building a global blockchain.
+プロジェクト Catalyst は、Cardanoにオンチェーンガバナンスをもたらす始まりです。 これは、Catalystコミュニティの集合的知性を活用してカルダノエコシステムの将来の方向性と開発を決定する一連の実験です。 一連の「イノベーションファンド」を通じて、コミュニティは素晴らしいアイデアを提案し、投票によって決定され、トレジャリーはグローバルブロックチェーンを構築するための最良のアイデアへ資金提供します。
 
-This repository contains the work of the Eastern Hemisphere community (CE ETH) proposal work. The C3 ETH  is helping enable community members from a wide variety of countries and languages in the eastern timezones. A particular focus of the team is to localise Cardano Catalyst content and on-baording to enable the widest participation possible.
-### Why Collaborate?
+このリポジトリには、東半球コミュニティ(CE ETH)の提案作業が含まれています。 C3 ETHは東部タイムゾーンで幅広い国と言語のコミュニティメンバーを可能にしています。 特にチームの焦点は、Cardano Catalystのコンテンツをローカライズし、オンボーディングで可能な限り幅広い参加を可能にすることです。
+### なぜコラボレーションするのですか？
 
 Collectivily the Cardano Community is puting a great deal of time, effort, and passion into creating a governance system which allows everyone to have their voice heard. The aim is to:
 
