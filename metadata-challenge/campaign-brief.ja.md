@@ -1,12 +1,12 @@
-# Metadata challenge
+# メタデータチャレンジ
 
-How can we utilize transaction metadata to solve real world problems?
+トランザクションメタデータを利用して現実世界の問題を解決するにはどうすればよいでしょうか?
 
-Fund Size: **$100,000 in Ada**
+予算規模: **$100,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26107) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26107) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26107/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
 With transaction metadata, Cardano can be utilized as a network to store small proofs of events or documents. This utility has been used in the past to implement product anti-counterfeit solutions as well as traceability solutions. Smart contracts are not necessary to take advantage of this functionality.
 
