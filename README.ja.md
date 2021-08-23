@@ -24,89 +24,89 @@
 このリポジトリには、東半球コミュニティ(CE ETH)の提案作業が含まれています。 C3 ETHは東部タイムゾーンで幅広い国と言語のコミュニティメンバーを可能にしています。 特にチームの焦点は、Cardano Catalystのコンテンツをローカライズし、オンボーディングで可能な限り幅広い参加を可能にすることです。
 ### なぜコラボレーションするのですか？
 
-Collectivily the Cardano Community is puting a great deal of time, effort, and passion into creating a governance system which allows everyone to have their voice heard. The aim is to:
+集合的に、Cardanoコミュニティは、誰もが自分の声を聞くことができるガバナンスシステムの作成に多大な時間、労力、および情熱を注いでいます。 目的は次の通りです:
 
-- Distributed research and development. We can build things better, faster, and cheaper than top down organizations when we empower our community.
+- 分散型研究開発。 コミュニティに力を与えることで、トップダウンの組織よりもより良く、より速く、そして安価なものを作ることができます。
 
-- Decentralized team building. Great innovation comes from great teams. Many of our most impactful projects come from teams who met while becoming a part of Project Catalyst.
+- 分散型のチームビルディング。 素晴らしいイノベーションは素晴らしいチームからもたらされます 私たちの最もインパクトのあるプロジェクトの多くは、Project Catalystの一員となりながら出会ったチームから来ています。
 
-- Group refinement and execution. We see a significant improvement in the quality of proposals after the community weighs in with their constructive criticism.
+- グループの改善と実行。 共同体が建設的な批判にさらされた後、提案の質が著しく向上したことがわかります。
 
-Contributions of any kind welcome!
-## Current Status
+どんな種類の貢献でも歓迎です!
+## 現在の状態
 
-We are current in the insight phase (week one) of the Catalyst process. Please add your challenge insights and there project catalyst link to the `insights.md` file in the challenge folder.
-## Fund 6 Challenges
+私たちは現在、Catalystプロセスの洞察段階(1週目)にいます。 チャレンジの洞察を追加し、チャレンジフォルダの `insights.md` ファイルに、プロジェクトのCatalystリンクを追加してください。
+## Fund 6チャレンジ
 
-Catalyst Fund 6 has eighteen challenges and one challenge setting challenge for Fund 7. Below are the challenges.
+Catalyst Fund6には18のチャレンジと1つのチャレンジ設定があります。 以下が課題です。
 
-| Challenge                                                                                                                      | Description                                                                                                                                  |
-| ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Atala PRISM DID Mass-Scale Adoption](https://github.com/C3ETH/c3eth-fund6/blob/main/atala-prism-did/campaign-brief.md)        | What will drive mass-scale adoption of decentralized IDs on Cardano?                                                                         |
-| [Catalyst value onboarding](https://github.com/C3ETH/c3eth-fund6/blob/main/catalyst-value-onboarding/campaign-brief.md)        | How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?                              |
-| [DApps & Integrations](https://github.com/C3ETH/c3eth-fund6/blob/main/dapps-integrations/campaign-brief.md)                    | What applications will provide the most value for end users in 2021?                                                                         |
-| [DeFi and Microlending for Africa](https://github.com/C3ETH/c3eth-fund6/blob/main/defi-microlending/campaign-brief.md)         | How can we enable the creation of micro-lending and Defi dApp solutions that fits the African setting?                                       |
-| [Developer ecosystem](https://github.com/C3ETH/c3eth-fund6/blob/main/developer-ecosystem/campaign-brief.md)                    | How can we create a positive developer experience that helps the developer focus on building successful apps?                                |
-| [Disaster: When all is at stake](https://github.com/C3ETH/c3eth-fund6/blob/main/disaster/campaign-brief.md)                    | How can we help SPOs tackle risks & plan, develop and participate in disaster recovery tests in a safe hiccup-free and decentralized manner? |
-| [Distributed decision making](https://github.com/C3ETH/c3eth-fund6/blob/main/distributed-decision/campaign-brief.md)           | How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?                     |
-| [DLT Entrepreneurship Toolbox](https://github.com/C3ETH/c3eth-fund6/blob/main/dlt-enterpreneurship/campaign-brief.md)          | How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?        |
-| [Cardano Emerging Threat Alarm](https://github.com/C3ETH/c3eth-fund6/blob/main/emerging-threats/campaign-brief.md)             | How can we help stakeholders identify serious emerging systemic threats for the Cardano blockchain before a threat overcomes the system?     |
-| [Fund 7 challenge setting](https://github.com/C3ETH/c3eth-fund6/blob/main/fund7-challenge-setting/campaign-brief.md)           | What Challenges should the community prioritize to address in Fund7?                                                                         |
-| [Grow Africa, Grow Cardano](https://github.com/C3ETH/c3eth-fund6/blob/main/grow-africa/campaign-brief.md)                      | How do we seed and grow Cardano in Africa?                                                                                                   |
-| [Improve and Grow Auditability](https://github.com/C3ETH/c3eth-fund6/blob/main/improve-auditability/campaign-brief.md)         | How to make the auditing process of funded proposals efficient, distributed and transparent?                                                 |
-| [Metadata challenge](https://github.com/C3ETH/c3eth-fund6/blob/main/metadata-challenge/campaign-brief.md)                      | How can we utilize transaction metadata to solve real world problems?                                                                        |
-| [Multilingual resources](https://github.com/C3ETH/c3eth-fund6/blob/main/multilingual-resources/campaign-brief.md)              | How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?                                         |
-| [NFT Business models](https://github.com/C3ETH/c3eth-fund6/blob/main/nft-business-models/campaign-brief.md)                    | What non-Art use cases of NFTs can distinguish Cardano as the blockchain of choice for NFT based businesses?                                 |
-| [Partnerships for Global Adoption](https://github.com/C3ETH/c3eth-fund6/blob/main/partnerships-for-adoption/campaign-brief.md) | How can Cardano enter in global partnerships with United Nations Development Programme and World Bank Group, to leverage mass adoption?      |
-| [Proposer outreach](https://github.com/C3ETH/c3eth-fund6/blob/main/proposer-outreach/campaign-brief.md)                        | How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?                 |
-| [Scale-UP Cardano's Community Hubs](https://github.com/C3ETH/c3eth-fund6/blob/main/scaleup-community-hubs/campaign-brief.md)   | How do we encourage Local Community Hubs to drive adoption and awareness of Cardano in the next 6 months?                                    |
-| [Scale-UP Cardano's DeFi Ecosystem](https://github.com/C3ETH/c3eth-fund6/blob/main/scaleup-defi/campaign-brief.md)             | How can we encourage DeFi teams to build/deploy open finance solutions on Cardano in the next 6 months?                                      |
-## Proposal Development Process
+| チャレンジ                                                                                                                | 説明                                                                     |
+| -------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Atala PRISM DID 大規模な採用](https://github.com/C3ETH/c3eth-fund6/blob/main/atala-prism-did/campaign-brief.md)           | CardanoのDIDの大規模な採用を推進するには？                                             |
+| [Catalyst への価値のオンボーディング](https://github.com/C3ETH/c3eth-fund6/blob/main/catalyst-value-onboarding/campaign-brief.md) | 次の2つのFUNDでコミュニティメンバーからのProject Catalystへの有意義な参加を促進するにはどうすればよいでしょうか?    |
+| [DApps & 統合](https://github.com/C3ETH/c3eth-fund6/blob/main/dapps-integrations/campaign-brief.md)                    | どのアプリケーションが2021年にエンドユーザーに最も価値を提供するでしょうか?                               |
+| [アフリカのためのDeFiとマイクロレンディング](https://github.com/C3ETH/c3eth-fund6/blob/main/defi-microlending/campaign-brief.md)        | アフリカに合ったマイクロレンディングとDefi dAppソリューションの作成を可能にするにはどうすればよいでしょうか?            |
+| [開発者エコシステム](https://github.com/C3ETH/c3eth-fund6/blob/main/developer-ecosystem/campaign-brief.md)                    | 開発者が成功するアプリの開発に集中するのに役立つポジティブな開発者体験をどのように形成すると良いでしょうか?                 |
+| [災害：あらゆる緊急事態が起きた時](https://github.com/C3ETH/c3eth-fund6/blob/main/disaster/campaign-brief.md)                        | SPOは、安全な問題のない分散型の方法で、リスク & 災害復旧テストの計画、開発、および参加を支援するにはどうすればよいですか?       |
+| [分散型意思決定](https://github.com/C3ETH/c3eth-fund6/blob/main/distributed-decision/campaign-brief.md)                     | Catalystコミュニティが次の2つのCatalystラウンドで分散型意思決定をより良くするためにどのように支援することができますか?   |
+| [DLT起業ツールボックス](https://github.com/C3ETH/c3eth-fund6/blob/main/dlt-enterpreneurship/campaign-brief.md)                | 初期段階の起業家は、有権者/ステークホルダーがプロジェクトを評価するため、 偉大なアイデアを実行 & 伝達するスキルをどう開発できますか?  |
+| [Cardano新たな脅威のアラーム](https://github.com/C3ETH/c3eth-fund6/blob/main/emerging-threats/campaign-brief.md)               | 脅威がシステムを壊す前に、ステークホルダーがCardanoブロックチェーンの深刻な脅威を特定するのをどのように支援できますか？        |
+| [Fund7 チャレンジ設定](https://github.com/C3ETH/c3eth-fund6/blob/main/fund7-challenge-setting/campaign-brief.md)            | コミュニティは、Fund7でどのような課題を優先すべきでしょうか?                                      |
+| [アフリカを育て、Cardanoを育てる](https://github.com/C3ETH/c3eth-fund6/blob/main/grow-africa/campaign-brief.md)                  | アフリカでCardanoをどのように育てるのか？                                               |
+| [監査可能性の向上と成長](https://github.com/C3ETH/c3eth-fund6/blob/main/improve-auditability/campaign-brief.md)                 | 資金調達された提案の監査プロセスを効率的、分散、透明にするにはどうすればよいでしょうか?                           |
+| [メタデータチャレンジ](https://github.com/C3ETH/c3eth-fund6/blob/main/metadata-challenge/campaign-brief.md)                    | トランザクションメタデータを利用して現実世界の問題を解決するにはどうすればよいでしょうか?                          |
+| [多言語リソース](https://github.com/C3ETH/c3eth-fund6/blob/main/multilingual-resources/campaign-brief.md)                   | 今後3~6ヶ月以内に、英語以外の人にCardanoエコシステムを学ばせ、成長させるにはどうすればいいでしょうか?               |
+| [NFT ビジネス モデル](https://github.com/C3ETH/c3eth-fund6/blob/main/nft-business-models/campaign-brief.md)                 | NFTのアート以外のユースケースで、CardanoをNFTベースのビジネスに最適なブロックチェーンとして区別できるものはどれですか？     |
+| [グローバルな採用のためのパートナー](https://github.com/C3ETH/c3eth-fund6/blob/main/partnerships-for-adoption/campaign-brief.md)      | カルダノは、国連開発計画や世界銀行グループとグローバルなパートナーシップを結ぶことができるでしょうか?                    |
+| [提案者アウトリーチ](https://github.com/C3ETH/c3eth-fund6/blob/main/proposer-outreach/campaign-brief.md)                      | Cardanoエコシステム外の起業家が次の2つの資金でCatalystに提案を提出するように促すにはどうすればよいでしょうか?        |
+| [Cardanoコミュニティハブの拡大](https://github.com/C3ETH/c3eth-fund6/blob/main/scaleup-community-hubs/campaign-brief.md)        | 今後6ヶ月間で、ローカル・コミュニティ・ハブがCardanoの採用と認知を促進するにはどうすればよいでしょうか?               |
+| [Cardanoの DeFi エコシステムの拡大](https://github.com/C3ETH/c3eth-fund6/blob/main/scaleup-defi/campaign-brief.md)             | 今後6ヶ月以内にCardanoにオープンファイナンスソリューションを構築/展開するように、DeFiチームに推奨するにはどうすればよいですか? |
+## 提案開発プロセス
 
-We will be developing proposals for two areas:
+我々は、以下の2つの分野の提案を開発する予定です:
 
-1. C3 ETH Specific Proposals to help with our goals
-2. Language specific Challenge Settings.
+1. C3 ETH特化した私たちの目標を支援する提案
+2. 言語固有のチャレンジ設定
 
-Fund 7 Challenge Setting Proposal(s) are Language-specific challenges while the C3 ETH proposals are specific to our team's efforts, or to helping with multilingual support in general.
+Fund7チャレンジ設定提案は言語固有の課題であり、C3のETH提案は私たちのチームの取り組みに固有のチャレンジか、 一般的に多言語サポートを支援することです。
 
-We will be putting up multiple proposals. This is to help us learn and see what peoples preferences are. When we notice other communities suggesting similar proposals we will seek to collaborate and merge effors. Catalyst is non-rivalous, we all win by working together.
+私たちは複数の提案を提出するつもりです。 これは、私たちが人々の好みが何であるかを学び、見るのに役立ちます。 私たちが同様の提案を示唆する他のコミュニティに気付いたら、私たちは協力し、努力をマージしようとします。 Catalystは非競争的であり、私たちは皆一緒に働くことによって勝利します。
 
-During the insight phase, collaborators are asked to submit their insights to [Project Catalyst](https://cardano.ideascale.com/) and then add their insight plus link to the Project Catalyst submission into the `insight.md` of the challenge in this repositiory.
+インサイトフェーズでは、共同作業者はインサイトを[Project Catalyst](https://cardano.ideascale.com/) に送信してから、インサイトとProjectCatalyst送信へのリンクをこのリポジトリのチャレンジの `insight.md` に追加するように求められます。
 
-Anyone who wants to draft insights this week should. We encourage everyone to draft insights to raise our profile and receive feedback. We will use these insights and any community comments to help us develop our proposals.
+その週に洞察力を引き出したい人は誰でもそうするべきです。 私たちは、すべての人に私たちのプロファイルを引き上げ、フィードバックを受けるために洞察を作成することを奨励します. 私たちは、提案を発展させるために、これらの洞察とあらゆるコミュニティのコメントを利用します。
 
-Some ideas already sugguested include:
+いくつかのアイデアはすでに次のとおりです:
 
-- A fund to act as a bounty for translation of proposals
-- Local Community centers proposal
-### Mapping Proposals
+- 提案の翻訳のための報奨金として行動するための基金
+- 地域コミュニティセンターの提案
+### 提案のマッピング
 
-To ensure the various communities- Catalyst Swarm, School, and ETH don't compete are map of the proposals is maintained on the [Miro Board](https://miro.com/app/board/o9J_l2_uFQI=/).
-### Translation Process
+さまざまなコミュニティ（Catalyst Swarm、School、ETHが競合しない）を確保するために、提案のマップは [ミロボード](https://miro.com/app/board/o9J_l2_uFQI=/)で管理されています。
+### 翻訳プロセス
 
-Our intention is all proposals will be fully translated into languages from the eastern hemisphere. The aim is to enable the widest possible inclusion into the Catalyst process. **Return on Intention** is international participation. To stream line the translation of all the proposals we will be using [Crowdin](https://crowdin.com/project/c3eth-fund6) to automate the process.
+私たちの意図は、すべての提案が完全に東半球から言語に翻訳されることです。 目的は、Catalyst プロセスに可能な限り広範囲に含めることを可能にすることです。 **Return on Intention** が国際的参加です。 すべての提案の翻訳をストリーミングするには、プロセスを自動化するために [Crowdin](https://crowdin.com/project/c3eth-fund6) を使用します。
 
-**CONTRIBUTING TO TRANSLATIONS:** You can contribute to translations by signing up to [Crowdin](https://crowdin.com/project/c3eth-fund6) and begin translating the content listed in the project. c3eth team members will check over your translations and approve them or offer improvements. The translations will be pulled into the `I10n_main` branch of this repository and periodically merged into `main`.
+**翻訳への貢献:** [Crowdin](https://crowdin.com/project/c3eth-fund6) にサインアップし、プロジェクトにリストされているコンテンツの翻訳を開始することで、翻訳に貢献することができます。 c3ethチームメンバーはあなたの翻訳を確認し、承認または改善を提供します。 翻訳は、このリポジトリの `I10n_main` ブランチに取り込まれ、定期的に `main` にマージされます。
 
-This workflow will be extended to include the translation of the website content and and videos we produce.
+このワークフローは、ウェブサイトのコンテンツの翻訳と、私たちが制作する動画に拡張されます。
 
-Direct translation using a text editor and git also possible for contributors that are comformatable with using git, GitHub, and Markdown.
-## Change Log
+git、GitHub、Markdownを使用することで、コンフォーマット可能な貢献者には、テキストエディタとgitを使用して直接翻訳することもできます。
+## 変更履歴
 
-See [CHANGELOG.md](CHANGELOG.md) for notable changes and versions.
-## Acknowledgements
+注目すべき変更とバージョンについては、 [CHANGELOG.md](CHANGELOG.md) を参照してください。
+## 謝辞
 
-* [Project Catalyst](https://cardano.ideascale.com/)
+* [プロジェクト Catalyst](https://cardano.ideascale.com/)
 * [Catalyst Swarm](https://www.swarm4catalyst.com/)
 * [Catalyst School]()
-* [IOHK Project Catalyst Team](https://iohk.io/)
-## Contributors ✨
+* [IOHKのプロジェクトCatalyst チーム](https://iohk.io/)
+## 貢献者 ✨
 
-Thanks goes to these wonderful contributors (see [emoji key](https://allcontributors.org/docs/en/emoji-key)):
+これらの素晴らしい貢献者に感謝します ( [絵文字キー](https://allcontributors.org/docs/en/emoji-key) を参照):
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![すべての貢献者](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -124,12 +124,12 @@ Thanks goes to these wonderful contributors (see [emoji key](https://allcontribu
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+このプロジェクトは [all-contributors](https://github.com/all-contributors/all-contributors) の仕様に従います。 どんな種類の貢献でも歓迎です!
 
-## License
+## ライセンス
 
-The documentation repository `c3eth\c3eth-fund6` is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ドキュメンテーションリポジトリ `c3eth\c3eth-docs` は [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)に基づいてライセンスされています。
 
-You are free to Share (copy and redistribute) the material in any medium or format adapt, remix, transform, and build upon the material. You may not use the material for commercial purposes.  If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. No warranties are given. The license may not give you all of the permissions necessary for your intended use.
+無料でリミックス、変換、組み立てなど、あらゆる媒体またはフォーマット で共有(コピー、再配布)することができます。 これらの素材を商業目的で使用することはできません。  リミックス、変換、またはビルドする場合は、オリジナルと同じライセンスの下でコントリビューションを配布する必要があります。 保証はありません。 本ライセンスは、お客様が使用するために必要なすべての許可を与えるものではありません。
 
-The licensor cannot revoke these freedoms as long as you follow the license terms.
+ライセンサーは、お客様がライセンス条項に従っている限り、これらの自由を取り消すことは出来ません。
