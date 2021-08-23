@@ -1,34 +1,34 @@
-# Multilingual resources
+# 多言語リソース
 
-How can we motivate non english speakers to learn and grow Cardano ecosystem in the next 3-6 months?
+今後3~6ヶ月以内に、英語以外の人にCardanoエコシステムを学ばせ、成長させるにはどうすればいいでしょうか?
 
-Fund Size: **$75,000 in Ada**
+予算規模: **$75,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26111) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26111) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26111/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
-The English language could be a barrier for a lot of people around the world when they try to learn about Cardano and blockchain technology.
+英語はCardanoとブロックチェーン技術について学ぼうとすると、世界中の多くの人々にとって障壁になるかもしれません。
 
-At least in Spanish there are no resources for people who might want to learn how to code smart contracts with Plutus or Marlowe for example.
+少なくともスペイン語では、例えばPlutusやMarloweとスマートコントラクトをコーディングする方法を学びたいと思う人のためのリソースはありません。
 
-## Why is it important?
+## なぜ重要なのか？
 
-Multilingual platforms will allow non-English speakers to learn about Cardano and increase its adoption worldwide.
+多言語プラットフォームにより、英語以外のスピーカーはCardanoについて学び、世界中でその採用を増やすことができます。
 
-## How does success look like?
+## 成功するとどのような未来が見えますか？
 
-Increased adoption and community engagement of non-English speakers.
+英語以外のスピーカーの採用とコミュニティのエンゲージメントの向上。
 
-Increased amount of resources in a variety of languages.
+さまざまな言語でのリソースの増加。
 
-## Key Metrics to measure
+## 測定する主要なメトリック
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for non-English speakers to build and grow the Cardano community in their local areas?
+このチャレンジの最後に 私たちは自問します: 英語以外の人がCardanoのコミュニティを地元の地域で構築し、成長させることができましたか?
 
-- Number of non-English speakers joining Cardano community
-- Number of courses translated to different languages, from programming to stakepool operation and so on.
-- A sense of community and conversations. Having people around to talk with.
-## References
+- Cardano コミュニティに参加している英語以外のスピーカーの数
+- プログラミングからステークプールの操作など、さまざまな言語に翻訳されるコースの数。
+- コミュニティと会話の感覚。 話すことができる人々がいます。
+## 参照
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)
+1. [オリジナルのチャレンジ設定提案](https://cardano.ideascale.com/a/dtd/Multilingual-resources/341725-48088)
