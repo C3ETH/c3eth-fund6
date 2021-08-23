@@ -1,12 +1,12 @@
-# Atala PRISM DID Mass-Scale Adoption
+# Atala PRISM DID 大規模な採用
 
-What will drive mass-scale adoption of decentralized IDs on Cardano?
+CardanoのDIDの大規模な採用を推進するには？
 
 Fund Size: **$250,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26116) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26116) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26116/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
 Propose a means or way to drive mass-scale adoption of DID usage as an easy-to-use onramp to the Cardano ecosystem (preferably Atala PRISM when released). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.
 
