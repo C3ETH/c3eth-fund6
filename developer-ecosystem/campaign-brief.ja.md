@@ -1,56 +1,56 @@
-# Developer ecosystem
+# 開発者エコシステム
 
-How can we create a positive developer experience that helps the developer focus on building successful apps?
+開発者が成功するアプリの開発に集中するのに役立つポジティブな開発者体験をどのように形成すると良いでしょうか?
 
-Fund Size: **$1,005,000 in Ada**
+予算規模: **$1,005,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26094) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26094/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26094) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26094/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
-Creating an awesome experience that incentives developers, will lead to increased developer adoption, productivity, and creativity.
+開発者が開発したいと思える素晴らしいエクスペリエンスを提供することで、開発者の採用、生産性、創造性の向上につなげます。
 
-## How success looks like
+## 成功するとどのような未来が見えますか？
 
-Liveliness. Happy energized developers making money and achieving their goals, mutual help, collaboration, and a shared feeling of success. A feeling of unexpected innovation happening "on it's own". A wide variety of resources are provided for developers allowing them to focus on business value they can generate and not on infrastructure
+生き生きとした 幸せで元気づけられた開発者が、よりお金を稼ぎ、彼らの目標を達成し、相互に助け合い協力し、成功体験を共有する 予期せぬイノベーションが自分の中から起こる感覚 開発者には幅広いリソースが用意されており、インフラではなく、ビジネスの価値をあげることに集中できるようになっています。
 
-Cardano has a thriving ecosystem of infrastructure companies that don't need to be subsidized by grants and are able to scale their businesses by monetizing the services that they provide. They are attracting developers to the ecosystem and educating them on how to build applications.
+Cardanoは、補助金を受け続ける必要がなく、提供するサービスを収益化することで事業を拡大することができるインフラ企業の繁栄するエコシステムを持っています。 彼らは開発者をエコシステムに引き付け、アプリケーションの構築方法について教育しています。
 
-## Key metric to measure
+## 測定する主要なメトリック
 
-At the end of this challenge, we will be asking ourselves: Did we manage to make it easier for developers to build on top of Cardano?
+このチャレンジの最後に、 私たちは自問します: 開発者がCardanoの上に構築するのをより簡単にすることはできましたか?
 
-- Filling in gaps defined in the exploration stage.
-- Number of developers actively building on top of Cardano
-- Number of repos on Github using the tooling. (Month over month increase)
-- Reduce wait time of unanswered communications with developers to 24 hours.
-- A sense of community and conversations. Having people around to talk with.
+- 探査段階で定義されたギャップを埋める。
+- Cardano上に積極的に構築している開発者数
+- ツールを使用する Github 上のリポジトリ数。 (月末の増加)
+- 開発者の未回答待機時間を24時間に短縮します。
+- コミュニティと会話の感覚。 話すことができる人々がいます。
 
-## Guiding questions
+## ガイドの質問
 
-- What are the the tools that we need to prioritize first
-- How do we attract developers from outside of our current community to participate in Catalyst?
-- What do developers want, and how do they get it from the Cardano dev ecosystem?
-- What would make it a developer motivated to grind through the docs and code no matter how hard it is to create an app?
-- What are enterprise dev managers looking for in order to be able to build out enterprise projects - either internal or commercial?
+- 最優先で必要なツールは何ですか？
+- 現在のコミュニティ以外の開発者をCatalystに参加させるにはどうすればいいですか?
+- 開発者は何を望んでおり、Cardano開発エコシステムからそれをどのように入手するのでしょうか?
+- アプリを作るのがどんなに難しいとしても、ドキュメントとコードをすり抜けようとする動機は何でしょうか?
+- エンタープライズプロジェクトを構築するために、社内または商業的にどのような企業開発マネージャーを求めていますか?
 
-## Potential directions
+## 潜在的な方向性
 
-- Developer productivity: IDE's, scripts to automate stuff.
-- Knowledge base & Documentation
-- Deployment, testing, and monitoring frameworks
-- Samples, recipes and templates
-- Hackathons
-- DEFI and tokenization
-- Dashboards
-- API's, and oracles.
-- Support structures
-- Incentivization structures
+- 開発者の生産性: IDEのスクリプトで自動化されます。
+- ナレッジベース & ドキュメント
+- 開発、テスト、モニタリングのフレームワーク
+- サンプル、レシピ、テンプレート
+- ハッカソン
+- DEFIとトークン化
+- ダッシュボード
+- API、およびオラクル。
+- ストラクチャーをサポート
+- インセンティブ構造
 
-## Prior Challenges
+## 以前のチャレンジ
 
-1. [Fund 5 Developer Ecosystem Challenge](https://cardano.ideascale.com/a/campaign-home/25939)
-2. [Fund 4 Developer Ecosystem Challenge](https://cardano.ideascale.com/a/campaign-home/25868)
-3. [Fund 3 Developer Ecosystem Challenge](https://cardano.ideascale.com/a/campaign-home/25805)
-4. [Fund 2 Challenge](https://cardano.ideascale.com/a/campaign-home/25652)
-5. [Fund 1 Challenge](https://cardano.ideascale.com/a/campaign-home/25604)
+1. [Fund 5開発者エコシステムチャレンジ](https://cardano.ideascale.com/a/campaign-home/25939)
+2. [Fund 4開発者エコシステムチャレンジ](https://cardano.ideascale.com/a/campaign-home/25868)
+3. [Fund 3開発者エコシステムチャレンジ](https://cardano.ideascale.com/a/campaign-home/25805)
+4. [Fund 2チャレンジ](https://cardano.ideascale.com/a/campaign-home/25652)
+5. [Fund 1チャレンジ](https://cardano.ideascale.com/a/campaign-home/25604)
