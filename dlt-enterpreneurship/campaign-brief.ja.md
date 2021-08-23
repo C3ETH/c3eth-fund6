@@ -1,14 +1,14 @@
-# DLT Entrepreneurship Toolbox
+# DLT起業ツールボックス
 
-How can early stage entrepreneurs develop their skills to execute & communicate great ideas so voters/stakeholders value the project?
+初期段階の起業家は、有権者/ステークホルダーがプロジェクトを評価するため、 偉大なアイデアを実行 & 伝達するスキルをどう開発できますか?
 
-Fund Size: **$150,000 in Ada**
+予算規模: **$150,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26113) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26113) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26113/stage/unspecified)。
 
-## Campaign Brief
+## キャンペーン概要
 
-Whatever your background, confidently communicating all the important elements of an early stage venture can be overwhelming for inexperienced entrepreneurs.
+あなたの背景が何であれ、自信を持って初期段階のベンチャーのすべての重要な要素を伝えることは、経験の浅い起業家にとって大変なことがあります。
 
 More should be done to help an increasingly diverse group of Project Catalyst entrepreneurs, at different stages of self-development, plus their teams and stakeholders to collaborate and communicate effectively.
 
