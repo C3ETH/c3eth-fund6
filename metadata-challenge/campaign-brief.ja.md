@@ -8,48 +8,48 @@
 
 ## キャンペーン概要
 
-With transaction metadata, Cardano can be utilized as a network to store small proofs of events or documents. This utility has been used in the past to implement product anti-counterfeit solutions as well as traceability solutions. Smart contracts are not necessary to take advantage of this functionality.
+トランザクションメタデータを使用すると、Cardanoはイベントやドキュメントの小さな証明書を保存するためのネットワークとして利用できます。 このユーティリティは、過去に製品の偽造防止ソリューションとトレーサビリティソリューションを実装するために使用されています。 この機能を利用するためにスマートコントラクトは必要ありません。
 
-This challenge is for you if you have problems that involve:
+このチャレンジは以下のような問題を抱えている場合に役立ちます。
 
-- Demonstrate to external parties that a specific document has not been tampered with.
-- Demonstrate to external parties that a specific event took place.
-- Demonstrate to external parties that a document existed at a specific date/time.
-- Demonstrate any or all of the above without revealing the document or the event's data (because of privacy concerns).
+- 特定の文書が改ざんされていないことを外部の当事者に示す。
+- 特定のイベントが発生したことを外部の当事者に示します。
+- 文書が特定の日時に存在していたことを外部の者に示します。
+- 文書やイベントのデータを明らかにすることなく、上記のいずれかまたはすべてを示します(プライバシーに関する問題のため)。
 
-IOHK is pleased to announce that we will support and provide expert advice to the proposal winners. The same team that created the New Balance and Beefchain solutions will be offering these services to the proposal winners for 6 months after the winners are announced:
+IOHKは、当選者に専門的なアドバイスを提供することを発表いたします。 ニューバランスとBeefchainソリューションを作成したのと同じチームは、受賞者が発表された後6ヶ月間、提案の受賞者にこれらのサービスを提供することになります:
 
-- 1 hr a week of expert advice from IOHK's solutions architects and technical consultants.
-- Email address for offline queries.
-- Architectural/design/technical reviews.
+- IOHKのソリューションアーキテクトおよび技術コンサルタントからの専門家のアドバイス週1時間。
+- オフラインクエリ用のメールアドレス。
+- アーキテクチャ/デザイン/技術的レビュー
 
-## How success looks like
+## 成功するとどのような未来が見えますか？
 
-Prototypes are built that utilize metadata to solve real life problems. The prototypes are presented to the Catalyst community in any of the town halls.
+実生活の問題を解決するためにメタデータを利用するプロトタイプが構築されています。 プロトタイプはタウンホールのいずれかでCatalystコミュニティに提示されています。
 
-## Key metrics to measure
+## 測定する主要なメトリック
 
-At the end of this challenge, we will be asking ourselves:
+このチャレンジの最後に、私たちは自問します。
 
-- Potential amount of users that can be brought onto Cardano.
-- Community feedback (positive/negative) about the prototypes after presentation.
-- Followup Catalyst proposals.
+- Cardanoに持ち込むことができる潜在的なユーザーの数。
+- プレゼンテーション後のプロトタイプに関するコミュニティフィードバック(ポジティブ/ネガティブ)。
+- フォローアップCatalyst 提案。
 
-## Guiding questions
+## ガイドの質問
 
-- What is the target audience?
-- Who are the potential users of the platform?
-- What is the problem that metadata is solving?
-- Why does the target audience care about the solution? Why would they install/use the solution?
-- Does the solution need hardware components?
-- What would retain the user on the solution? That is, after installation, why would you keep using it? What value does it bring to the user (continuously)?
+- ターゲットは何ですか?
+- プラットフォームの潜在的なユーザーは誰ですか?
+- メタデータが解決している問題は何ですか?
+- ターゲットオーディエンスはなぜソリューションを気にするのでしょうか? なぜソリューションをインストール/使用するのでしょうか?
+- 解決策にはハードウェアコンポーネントが必要ですか?
+- 何がユーザーにソリューションを保持し続けさせるでしょうか？ それは、インストール後、なぜあなたはそれを使用し続けるでしょうか? ユーザーに(継続的に)どのような価値をもたらしますか?
 
-## Potential directions
+## 潜在的な方向性
 
-- Traceability
-- Product Authentication
-- Auditable decentralized document workflows (i.e. HelloSign solutions or similar).
+- トレーサビリティ:
+- 製品認証
+- 監査可能な分散型ドキュメントワークフロー (例: HelloSign のソリューションや同様のもの。
 
-## Prior Challenges
+## 以前のチャレンジ
 
-1. [Fund 5: Metadata challenge](https://cardano.ideascale.com/a/campaign-home/25945)
+1. [Fund5：メタデータチャレンジ](https://cardano.ideascale.com/a/campaign-home/25945)
