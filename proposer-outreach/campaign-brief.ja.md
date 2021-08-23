@@ -1,33 +1,33 @@
-# Proposer outreach
+# 提案者アウトリーチ
 
-How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
+Cardanoエコシステム外の起業家が次の2つの資金でCatalystに提案を提出するように促すにはどうすればよいでしょうか?
 
-Fund Size: **$100,000 in Ada**
+予算規模: **$100,000 in Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26105) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified)。
 
-## Campaign Brief
-Outside proposers will inject vitality and diversity to the community while increasing the overall quality of proposals.
+## キャンペーン概要
+外部の提案者は、提案の全体的な質を高めながら、コミュニティに活力と多様性を導入します。
 
-Cardano has ambitious plans to reach 1 billion people. To make this goal a reality, we must attract the brightest entrepreneurs from across the globe and encourage them to submit ideas which will have a positive impact on the ecosystem. The best ideas will be funded, providing entrepreneurs with a more democratized route to capital and ensuring that location is not a barrier to entry.
+Cardanoは10億人に到達する野心的な計画を持っています。 この目標を現実のものにする。 世界中の最も優秀な起業家を引き付ける必要があります そして彼らがエコシステムに良い影響を与えるアイデアを提出するよう促すのです 最良のアイデアは資金提供され、起業家に資本へのより民主化されたルートがあることを示し、場所がエントリーの障壁ではないことを保証します。
 
-We must increase brand awareness of Catalyst amongst the entrepreneur community, via multi platform proposer outreach campaigns. From content creation to media coverage, hackathons and live events - we want the community to submit their ideas that will attract and engage this audience.
+マルチプラットフォームの提案者アウトリーチキャンペーンを通じて、起業家コミュニティの間でCatalystのブランド認知度を高める必要があります。 コンテンツの作成からメディアの報道まで ハッカソンとライブイベント - コミュニティがこの聴衆を引き付け、関与させるアイデアを提出することを望んでいます。
 
-## How success looks like
+## 成功するとどのような未来が見えますか？
 
-Bright entrepreneurs, and specialized firms from across the globe learn about Catalyst and submit high impact proposals.
+世界中の優れた起業家や専門企業がCatalystについて学び、インパクトのある提案を提出します。
 
-## Key metric to measure
+## 測定する主要なメトリック
 
-To assess ROI of this challenge we will ask ourselves:
+このチャレンジのROIを評価するために、私たちは自問します:
 
-Did we get proposals from outside our ecosystem?
+私たちはエコシステムの外から提案を受けたのでしょうか？
 
-- Media coverage
-- Ideas submitted from new members of the community.
-- Community advisor rating of top 10% of "outsider" proposals
+- メディアの範囲
+- コミュニティの新しいメンバーから提出されたアイデア。
+- 「外部」提案の上位10%のコミュニティアドバイザー評価
 
-## Prior Challenges
+## 以前のチャレンジ
 
-1. [Fund 5: Proposer Outreach](https://cardano.ideascale.com/a/campaign-home/25943)
-2. [Fund 4: Proposer Outreach](https://cardano.ideascale.com/a/campaign-home/25871)
+1. [Fund5：提案者アウトリーチ](https://cardano.ideascale.com/a/campaign-home/25943)
+2. [Fund4：提案者アウトリーチ](https://cardano.ideascale.com/a/campaign-home/25871)
