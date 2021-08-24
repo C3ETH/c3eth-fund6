@@ -8,9 +8,9 @@ Giá trị quỹ:**$250,000 Ada**
 
 ## Tóm tắt dự án
 
-Đề xuất một phương tiện hoặc cách thức để thúc đẩy việc sử dụng DID trên quy mô lớn như một phương tiện hỗ trợ dễ sử dụng cho hệ sinh thái Cardano (Atala PRISM là phù hợp nhất khi phát hành). This can include any method that will offer users or entities a decentralized ID to start defining their digital self-sovereignty. Think about how this is implemented at scale drawing millions of users, who, once onboard, can become customers for dApps, tools, DeFi and other services.
+Đề xuất một phương tiện hoặc cách thức để thúc đẩy việc sử dụng DID trên quy mô lớn như một phương tiện hỗ trợ dễ sử dụng cho hệ sinh thái Cardano (Atala PRISM là phù hợp nhất khi phát hành). Điều này bao gồm nhiều phương pháp hỗ trợ người dùng hoặc công ty với ID phi tập trung để xác định được sự tự chủ về kỹ thuật số của họ. Hãy nghĩ về cách điều này được triển khai trên quy mô lớn thu hút hàng triệu người dùng, những người khi đã tham gia, có thể trở thành khách hàng của dApp, công cụ, DeFi và các dịch vụ khác.
 
-We are a community of thought leaders and it is time to demonstrate our thoughts with actions. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
+Chúng ta là cộng đồng về các nhà lãnh đạo tư tưởng và đã đến lúc thể hiện những ý tưởng của chúng ta bằng hành động. Sử dụng công nghệ Nhận dạng Phân quyền (DID) để thiết lập sự hiện diện và quyền sở hữu của thông tin Nhận dạng Cá nhân (PII) thúc đẩy sự phân cấp của các tổ chức; mang lợi ích cho các cá nhân và các tổ chức.
 
 This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.
 
