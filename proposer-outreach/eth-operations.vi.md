@@ -10,6 +10,8 @@
 
 **TBD** [ETH Catalyst Proposal]()
 
+[![hackmd-github-sync-badge](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA/badge)](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA)
+
 ## Proposers:
 
 - Eastern Townhall ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
