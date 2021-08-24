@@ -20,32 +20,41 @@
 ### 追加の提案者については議論されています
 
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
-- [*提案者になりたい場合は、こちらのリストとアイディアケールのプロフィールに名前を追加してください。*]
+- Simon Fleck ([@seomon](https://cardano.ideascale.com/a/pmd/3056213-48088?))
+- Catalyst Swarm ([@catalystswarm](https://cardano.ideascale.com/a/pmd/3099816-48088?))
+- Catalyst School ([@catalystschool](https://cardano.ideascale.com/a/pmd/3100487-48088?))
+- WADA ([@wadalliance](https://cardano.ideascale.com/a/pmd/3069687-48088?))
+-
+- [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
+
+### Challenge Team
+- Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
+- Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?))
 
 ---
 
 # アジアを育て、Cardanoを育てる
 
-## チャレンジの質問:
+## Challenge question:
 包括的で多様で支援的な方法で、東アジアのCardanoエコシステムをどのように成長させるのか。 私たちがアフリカで行うのと同じように、イニシアチブと実装に焦点を当てましょう!
 
-## なぜ重要なのか？
+## Why is it important?
 Cardanoコミュニティは北米とヨーロッパに拠点を置いています。 他の場所での成長には、コミュニティとしての我々の支援とイニシアチブが必要です。
 
-## 成功するとどのような未来が見えますか？
+## How does success look like?
 私たちのエコシステムを成長させるために集まってチームを形成するアジアからの、またはアジアとのつながりを持つ幅広い人々。
 
-## 測定する主要なメトリック
+## Key Metrics to measure
 
-- 資金提供された提案の量と質だけでなく、観察された影響。
-- 東アジアにおけるSPOとトランザクションの着実な増加。
-- 東アジア人参加者数
-- 東アジア以外の参加者の数と東アジアの住民との重要なパートナーシップの数
-- 失敗や成功に関係なく、成功した提案からの進捗に関するフィードバック
-- 新規性とソリューションの妥当性（定量化が難しく、見やすい）
-- 運営を続けるためにさらに資金を必要としない東アジアのFund5の提案数
+- The quantity and quality of funded proposals as well as the impact observed.
+- A steady increase in SPOs and transactions in East Asia.
+- Number of East Asian participants
+- Number of Outside East Asian participants with a significant partnership with East Asia residents
+- Feedback on progress from successful proposals regardless of failure or success
+- Novelty and appropriateness of solutions (hard to quantify, easy to see)
+- Number of East Asia Fund7 proposals that do not need further funding to keep operating
 
-## チャレンジの概要
+## Challenge brief
 
 アフリカのように ブロックチェーン技術とCardanoプロトコルについて東アジアの一般的な人々の意識レベルを上げることは、Catalystコミュニティの優先事項です。 プロトコルとコミュニティが提供するサポートを活用するために私たちのプロトコルについて学ぶ人々に資金を提供すること、これこそ私たちが一緒に働く理由のように思えます、そうではありませんか？
 
@@ -64,21 +73,21 @@ Cardanoは東南アジア(日本と香港)でその人生を始まりました�
 コミュニティが後援するプロジェクトは若くて発展途上国でよりよく実行されるため、ROIは高くなる可能性があります。
 
 
-## このプロジェクトは何ですか？
+## What this is:
 
 世界をより良い場所にするために、この機会を認識し、リスクを冒し、報酬を与えるCardanoコミュニティの能力を活性化するための呼びかけ。
 
-## このプロジェクトはこうではありません。
+## What this is not:
 
 これは提案者によって積極的な仕事を必要とする提案ではありません、それは達成に至るための投票を必要とするビジョンです。 それが成功した場合は、受益者はCardano全体のコミュニティです。 それは私たちの偏見を閉じ、私たちの多くが生まれてきた環境上の利益を欠いている善良な人々に私たちの目、心、そして心を開くための呼びかけです。 良い方向となり成功するためには、慈善団体が必要ではないことを示す機会となります。 必要なのは、他の多くの人が享受している成功または失敗の機会均等ですが、障害やハードルが軽減され、選択肢は自分たちの手に委ねられていることも必要です。
 
-## 成功するか失敗するかにかかわらず:
+## Regardless of whether it succeeds or fails:
 
 私は目を開け、東南アジアの可能性について考えを変えました。 東南アジアの銀行家から、ビジョンと心を持った元パット、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。 東南アジアの銀行家から、ビジョンと心を持った元パット、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。
 
 ここ数週間、私とコメントし交流してくださった皆さん、ありがとうございました。
 
-## インパクト:
+## Impact
 
 **インパクト**: エチオピア政府の協定が発表された直後に資金5が開始され、その勢いに乗っていきます この主要な発表に加えて、東南アジアには、この提案がサポートできる以上の十分に活用されていない才能がありますが、それらを発見し、世界中で見られるようにすることで、無限の可能性が広がります。 世界を最大限に変えるこのコミュニティのチャレンジを打ち出す適切な時期です。
 
@@ -88,26 +97,28 @@ Cardanoは東南アジア(日本と香港)でその人生を始まりました�
 
 **予算**: 注目と重要な提案を引き付けるには十分に大きいが、他のコミュニティの提案が資金調達を求めることが可能である程度には十分に小さい。
 
-## 謝辞
+## Funds: $500,000 USD
+
+## Acknowledgements
 
 この提案は [アフリカを育て、Cardanoを育てる](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) （提案者は @grebel and @archangelbob ）のコピーであり、そこは多くの [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108) の１つになっています。
 
 
-## 参照
+## References
 
-## 添付ファイル
+## Attachments
 
 ---
 
-## このテンプレートを完成させるためのガイド (REMOVE)
+## Guides for Completing this template (REMOVE)
 
-- [Project Catalyst チャレンジチームガイド](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
+- [Project Catalyst Challenge Team Guide](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
 
-- [ProjectCatalyst チャレンジ設定および提案ガイド](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/)
+- [Project Catalyst Challenge and Proposal Guide](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/)
 
-- [Catalyst School 提案者ガイド](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/)
+- [Catalyst School Proposer's Guide](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/)
 
 - [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#heading=h.dmu4wfbk1ion)
-- [チャレンジ設定 2.0 - チャレンジチームの導入](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
+- [Challenge setting 2.0 - Introducing challenge teams](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
 
-- [コミュニティアドバイザーガイド](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
+- [Community Advisor Guide](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
