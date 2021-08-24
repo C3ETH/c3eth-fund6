@@ -20,8 +20,17 @@
 ### Additional proposers to be discussed.
 
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
+- Simon Fleck ([@seomon](https://cardano.ideascale.com/a/pmd/3056213-48088?))
+- Catalyst Swarm ([@catalystswarm](https://cardano.ideascale.com/a/pmd/3099816-48088?))
+- Catalyst School ([@catalystschool](https://cardano.ideascale.com/a/pmd/3100487-48088?))
+- WADA ([@wadalliance](https://cardano.ideascale.com/a/pmd/3069687-48088?))
+- 
 - [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
 
+### Challenge Team
+- Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
+- Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?)) 
+ 
 ---
 
 # Grow East Asia, Grow Cardano
@@ -90,6 +99,8 @@ Thank you to all of you who have commented and interacted with me over the last 
 **Auditability**: Like all community proposals it relies on the results of the challenge it proposes to truly prove itself, but the metrics it proposes could give an early indication of how successful it is.
 
 **Budget**: Large enough to attract attention and significant proposals, but small enough to allow other community proposals to seek funding
+
+## Funds: $500,000 USD
 
 ## Acknowledgements
 
