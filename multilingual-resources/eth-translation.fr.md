@@ -1,4 +1,4 @@
-# Multilingual resources: Eastern Townhall Translation
+# Multilingual resources: On-boarding East Asia Today!
 
 ## Proposal Challenge
 
@@ -26,9 +26,14 @@
 
 [**NOTE**: 35 Character Limit]
 
+On-boarding East Asia Today!
+
 ## Problem statement
 
 [**NOTE**: 140 Character Limit]
+
+Despite a population of billions, East Asians are underrepresented in Catalyst due to a lack of localised content.
+
 
 ![](https://i.imgur.com/LHYBpln.png)
 
@@ -36,17 +41,20 @@
 
 [**NOTE**: 140 Character Limit]
 
+Setup a translation pipeline that will translate catalyst documentation & proposals across as many languages in East Asia as possible.
+
 ![](https://i.imgur.com/xBjrh1k.png)
 
 ## Relevant experience
 
 [**NOTE**: 140 Character Limit]
 
+
 ![](https://i.imgur.com/pkCUM0g.png)
 
 ## Website/GitHub repository
 
-https://c3eth.github.io/
+https://c3eth.github.io/c3eth-fund6
 
 ## Co-submitters
 
@@ -55,6 +63,40 @@ https://c3eth.github.io/
 https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 ## Detailed plan (not required) - Fill in here any additional details
+
+
+
+The use of English creates participation barriers.
+
+Despite a population of billions, East Asians are underrepresented in Catalyst.
+
+English creates participation barriers.
+
+Missed opportunity in the millions. We need to quantify that (with references?).
+
+Lack of proposals! Yet half the worlds population.
+
+Greater Outreach Expanding the understanding of the community On-boarding East Asian devs and entrepreneurs
+
+and limits the potential growth of Cardano in this region.
+
+
+3: Despite the population of 1.6 Billion, Catalyst has seen very few proposals from East Asia. The dominant use of English in Project Catalyst raises barriers to participation and limits the potential growth of Cardano in this region.
+
+
+Despite billions of East Asians, Catalyst has had few proposals from the region.  English is a barrier they must cross.
+
+"are excited about being a part of the Cardano ecosystem" ?
+
+People across the region are excited about getting involved in the Cardano ecosystem. But The dominant use of English in Project Catalyst raises barriers to participation.
+
+
+Despite the poplutation of 1.6 Billion, Catalyst has seen very few proposals from East Asia. People across the region are excited about getting involved in the Cardano ecosystem. But The dominant use of English in Project Catalyst raises barriers to participation.
+
+By missing their stories
+
+
+
 
 [Who will benefit]
 
