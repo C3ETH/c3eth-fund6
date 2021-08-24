@@ -10,7 +10,7 @@ Dana Tersedia: **$250,000 dalam Ada**
 
 Menawarkan cara untuk mendorong adopsi massal pengunaan DID sebagai metode-yang-mudah-digunakan untuk mengenalkan ekosistem Cardano (lebih disukai melalui Atala PRISM ketika sudah siap diluncurkan). Ini dapat termasuk metode apapun yang akan menawarkan pengguna atau instansi sebuah ID yang terdesentralisasi untuk memulai memberi arti terhadap kedaultan diri. Pikirkan bagaimana caranya ini dapat di implementasi secara skalatis untuk membawa masuk jutaan pengguna yang, begitu sudah memakai, dapat menjadi pelanggan untuk dApps, aneka tools, DeFi dan berbagai macam servis lainnya.
 
-We are a community of thought leaders and it is time to demonstrate our thoughts with actions. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
+Kita adalah sebuah komunitas yang terdiri dari pemikir-pemikir unggulan dan sudah saatnya kita menunjukkan pemikiran kita menjadi tindakan nyata. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
 
 This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.
 
