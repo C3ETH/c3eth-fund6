@@ -8,21 +8,21 @@ Giá trị quỹ: **$200,000 Ada**
 
 ## Campaign Brief
 
-### Africa is fertile ground for the adoption of Cardano.
+### Châu Phi là một mảnh đất màu mỡ trong việc áp dụng Cardano.
 
-Having a funding round that focuses on Africa is a win, win, win scenario. Africa wins by getting some backing. Commercial projects that are already building up in Africa win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.
+Có sự tài trợ tập trung vào Châu Phi là một viễn cảnh mà đôi bên cùng có lợi. Châu Phi có lợi vì có được sự hỗ trợ. Dự án thương mại đã được xây dựng ở Châu Phi sẽ có lợi vì họ nhận được những tín hiệu ủng hộ từ cộng đồng. Những người nắm giữ Cardano sẽ có lợi khi có một môi trường khuyến khích họ được áp dụng ở mọi nơi.
 
-Focussing on Africa is a strategy that has often been promoted and is openly pursued by IOG and Charles Hoskinson
+Tập trung vào Châu Phi là một chiến lược đã được đề xuất và được phát triển rộng rãi bởi IOG và Charles Hoskinson
 
-The ROI is likely to be high because community sponsored projects are better run in young and developing economies.
+ROI sẽ khá cao bởi vì những dự án tài trợ cộng đồng tốt hơn nên được vận hành trên nền kinh tế trẻ và đang phát triển.
 
-## What this is:
+## Đây là gì:
 
-A call to activate the Cardano community's ability to recognise, risk and reward this opportunity to make the world a better place.
+Một lời kêu gọi để kích hoạt khả năng của cộng đồng Cardano để nhận diện, nhìn thấy rủi ro và trao thưởng cho cơ hội này để làm cho thế giới trở thành một nơi tốt đẹp hơn.
 
-## What this is not:
+## Dự án này không phải là:
 
-This is not a proposal that needs active work by the proposers, it is a vision that needs votes to become an achievement. If it succeeds the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
+Dự án này không cần sự làm việc tích cực của người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu thành công thì cả cộng đồng Cardano sẽ nhận được lợi ích từ nó. Đây là một lời kêu gọi để dập tắt định kiến và mở rộng tầm nhìn, trái tim và khối óc với những người tốt nhưng thiếu những lợi ích về môi trường mà nhiều người trong chúng ta sinh ra. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
 
 ## Regardless of whether it succeeds or fails:
 
