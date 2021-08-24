@@ -51,26 +51,26 @@ Cũng như ở Châu Phi, nâng cao mức nhận thức của mọi người ở
 
 Một số lượng lớn các bể đào nằm ở Bắc Mỹ và Châu Âu. Giao thức Cardano sẽ linh hoạt và hiệu quả hơn nhiều đối với người dùng trên toàn thế giới khi cộng đồng Catalyst tăng trưởng và tài trợ cho mọi người trên khắp thế giới.
 
-Addressing these different parts of the world directly through funding challenges such as this gives them access to our community and thereby a means of support as they engage with the Cardano ecosystem.
+Giải quyết những phần khác nhau này trên thế giới thông qua tài trợ cho những thách thức, điều này giúp họ tiếp cận với cộng đồng của chúng tôi và cũng là một phương tiện hỗ trợ họ tham gia vào hệ sinh thái Cardano.
 
-The amount of funding which is proposed equals 6.25 % of the total available for Fund 7. The suggestion is that this is a nice percentage to use as a guide for future rounds when funding increases for all of the challenges that focus on specific regions.
+Số tiền tài trợ được đề xuất bằng 6,25% so với tổng số vốn có sẵn cho Fund7. Đề xuất là đây là một tỉ lệ phần trăm tốt dùng để hướng dẫn cho những vòng trong tương lai khi số lượng quỹ tăng cho tất cả các thách thức tập trung vào một vùng cụ thể.
 
 --
 
-South-East Asia is fertile ground for the adoption of Cardano. Having a funding round that focuses on South-East Asia is a win, win, win scenario. South-East Asia wins by getting some backing. Commercial projects that are already building up in South-East Asia win, because they get the signal of support from our community. Cardano holders win when there is an encouraging environment for mass adoption anywhere.
+Đông Nam Á là một mảnh đất màu mỡ trong việc áp dụng Cardano. Có một vòng tài trợ tập trung vào Đông Nam Á là một viễn cảnh mà đôi bên cùng có lợi. Đông Nam Á có lợi vì sẽ có được sự hỗ trợ. Dự án thương mại đã được xây dựng ở Đông Nam Á sẽ có lợi vì họ nhận được những tín hiệu ủng hộ từ cộng đồng. Những người nắm giữ Cardano sẽ có lợi khi có một môi trường khuyến khích họ được áp dụng ở mọi nơi.
 
-Cardano started life in South-East Asia (Japan and Hong Kong). Focussing on South-East Asia is a strategy that has been promoted and is openly pursued by Emurgo.
+Cardano bắt đầu thành lập ở Đông Nam Á (Nhật Bản và Hồng Kong). Tập trung vào Đông Nam Á là một chiến lược được thúc đẩy và được công khai tiếp tục bởi Emurgo.
 
 The ROI is likely to be high because community sponsored projects are better run in young and developing economies.
 
 
-## What this is:
+## Đây là gì:
 
-A call to activate the Cardano community's ability to recognise, risk and reward this opportunity to make the world a better place.
+Một lời kêu gọi để kích hoạt khả năng của cộng đồng Cardano để nhận diện, nhìn thấy rủi ro và trao thưởng cho cơ hội này để làm cho thế giới trở thành một nơi tốt đẹp hơn.
 
-## What this is not:
+## Dự án này không phải là:
 
-This is not a proposal that needs active work by the proposers, it is a vision that needs votes to become an achievement. If it succeeds the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
+Dự án này không cần sự làm việc tích cực của người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu thành công thì cả cộng đồng Cardano sẽ nhận được lợi ích từ nó. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
 
 ## Regardless of whether it succeeds or fails:
 
@@ -88,7 +88,7 @@ Thank you to all of you who have commented and interacted with me over the last 
 
 **Budget**: Large enough to attract attention and significant proposals, but small enough to allow other community proposals to seek funding
 
-## Acknowledgements
+## Nguồn
 
 This proposal is a copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
 
