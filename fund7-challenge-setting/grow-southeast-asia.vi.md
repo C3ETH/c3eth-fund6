@@ -1,4 +1,4 @@
-# Grow East Asia, Grow Cardano
+# Phát triển Đông Á, phát triển Cardano
 
 ## Câu hỏi thách thức:
 How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
