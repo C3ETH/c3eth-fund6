@@ -25,9 +25,9 @@
 - Catalyst School ([@catalystschool](https://cardano.ideascale.com/a/pmd/3100487-48088?))
 - WADA ([@wadalliance](https://cardano.ideascale.com/a/pmd/3069687-48088?))
 -
-- [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
+- [*Vui lòng điền tên của bạn vào danh sách và hồ sơ Ideascale nếu bạn muốn trở thành người viết dự án.*]
 
-### Challenge Team
+### Team thách thức
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
 - Felix Weber ([@felixweber](https://cardano.ideascale.com/a/pmd/3077912-48088?))
 
@@ -35,26 +35,26 @@
 
 # Phát triển Đông Á, Phát triển Cardano
 
-## Challenge question:
+## Câu hỏi thách thức:
 Làm cách nào để phát triển hệ sinh thái Cardano ở Đông Á một cách toàn diện, đa dạng và theo hướng hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào sáng kiến và triển khai!
 
-## Why is it important?
+## Tại sao nó lại quan trọng?
 Cộng đồng Cardano có nhiều trụ sở ở Bắc Mỹ và Châu Âu. Phát triển ở những nơi khác yêu cầu sự hỗ trợ của chúng tôi và những sáng kiến từ cộng đồng.
 
-## How does success look like?
+## Thành công sẽ trông như thế nào?
 Một số lượng lớn người từ Châu Á hoặc có liên hệ với Châu Á sẽ cùng nhau tạo những nhóm để phát triển hệ sinh thái của chúng ta.
 
-## Key Metrics to measure
+## Các chỉ số chính để đo lường
 
-- The quantity and quality of funded proposals as well as the impact observed.
-- A steady increase in SPOs and transactions in East Asia.
-- Number of East Asian participants
-- Number of Outside East Asian participants with a significant partnership with East Asia residents
-- Feedback on progress from successful proposals regardless of failure or success
-- Novelty and appropriateness of solutions (hard to quantify, easy to see)
-- Number of East Asia Fund7 proposals that do not need further funding to keep operating
+- Số lượng và chất lượng của những dự án đã được tài trợ cũng như các tác động chúng ta có thể thấy được.
+- Sự phát triển bền vững của SPOs và các giao dịch ở Đông Á.
+- Số lượng của người tham gia ở Đông Á
+- Số lượng người tham dự ở ngoài Đông Á có liên hệ với cư dân ở Đông Á
+- Phản hồi về tiến độ từ những dự án thành công bất kể thất bại hay thành công
+- Tính cải tiến và tính khả thi của giải pháp (khó định lượng, dễ thấy)
+- Số lượng dự án Đông Á Fund7 không cần tài trợ thêm để triển khai
 
-## Challenge brief
+## Tóm tắt Thách Thức
 
 Cũng như ở Châu Phi, nâng cao mức nhận thức của mọi người ở Đông Á về công nghệ blockchain và giao thức Cardano nên được ưu tiên trong cộng đồng Catalyst. Cung cấp kinh phí cho những người tìm hiểu về protocal của chúng tôi để tận dụng protocal và sự hỗ từ cộng đồng dường như là lý do tại sao chúng tôi cùng làm việc với nhau, phải không?
 
@@ -70,16 +70,16 @@ Số tiền tài trợ được đề xuất bằng 6,25% so với tổng số v
 
 Cardano bắt đầu thành lập ở Đông Nam Á (Nhật Bản và Hồng Kong). Tập trung vào Đông Nam Á là một chiến lược được thúc đẩy và được công khai tiếp tục bởi Emurgo.
 
-The ROI is likely to be high because community sponsored projects are better run in young and developing economies.
+ROI sẽ khá cao bởi vì những dự án tài trợ cộng đồng tốt hơn nên được vận hành trên nền kinh tế trẻ và đang phát triển.
 
 
-## What this is:
+## Đây là gì:
 
 Một lời kêu gọi để kích hoạt khả năng của cộng đồng Cardano để nhận diện, nhìn thấy rủi ro và trao thưởng cho cơ hội này để làm cho thế giới trở thành một nơi tốt đẹp hơn.
 
-## What this is not:
+## Dự án này không phải là:
 
-Dự án này không cần sự làm việc tích cực của người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu thành công thì cả cộng đồng Cardano sẽ nhận được lợi ích từ nó. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
+Dự án này không cần sự làm việc tích cực của người đề xuất, nó là một tầm nhìn cần những phiếu bầu để trở thành một thành tựu. Nếu thành công thì cả cộng đồng Cardano sẽ nhận được lợi ích từ nó. Đây là một lời kêu gọi để dập tắt định kiến và mở rộng tầm nhìn, trái tim và khối óc với những người tốt nhưng thiếu những lợi ích về môi trường mà nhiều người trong chúng ta sinh ra. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
 
 ## Regardless of whether it succeeds or fails:
 
@@ -89,24 +89,24 @@ Thank you to all of you who have commented and interacted with me over the last 
 
 ## Impact
 
-**Impact**: Fund5 will get underway shortly after the Ethiopian government deal is likely to have been announced and will build on its momentum. Along with this major announcement, South-East Asia has more underutilised talent than this proposal can possibly support but it has unlimited potential to uncover them and get them seen around the world. It is the right time for this community challenge to change the world with maximum effect.
+** Tác động **: Fund5 sẽ được tiến hành ngay sau khi thỏa thuận của chính phủ Ethiopia được công bố và sẽ tiếp tục phát triển. Cùng với thông báo này, Đông Nam Á có nhiều nhân tài chưa được sử dụng nhiều hơn mức mà đề xuất này có thể hỗ trợ, nhưng nó có tiềm năng vô hạn để phát hiện ra họ và khiến họ được tìm thấy trên khắp thế giới. Đây là thời điểm thích hợp để thách thức cộng đồng này thay đổi thế giới với hiệu quả tối đa.
 
-**Feasibility**: South-East Asia is poised for technology focussed growth (see video above), has over 600 technology hubs spread across the continent and is home to 4 of the top 20 fastest growing economies in the world.
+** Tính khả thi **: Đông Nam Á sẵn sàng cho sự phát triển tập trung vào công nghệ (xem video ở trên), có hơn 600 trung tâm công nghệ trải khắp châu lục và là nơi có 4 trong số 20 nền kinh tế phát triển nhanh nhất trên thế giới.
 
-**Auditability**: Like all community proposals it relies on the results of the challenge it proposes to truly prove itself, but the metrics it proposes could give an early indication of how successful it is.
+** Khả năng kiểm soát **: Giống như tất cả các đề xuất của cộng đồng, nó dựa vào kết quả của thử thách mà nó đề xuất để thực sự chứng minh bản thân, nhưng các chỉ số mà nó đề xuất có thể cho biết sớm mức độ thành công của nó.
 
 **Ngân sách**: Đủ lớn để thu hút những dự án, nhưng đủ nhỏ để dự án của những cộng đồng khác có thể có tài trợ
 
-## Funds: $500,000 USD
+## Ngân sách: $500,00 USD
 
-## Acknowledgements
+## Nguồn
 
 Dự án này được lấy ý tưởng từ [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) được đề xuất bởi @grebel và @archangelbob và hiện tại là một trong những thách thức của [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108).
 
 
-## References
+## Nguồn tham khảo
 
-## Attachments
+## Tệp đính đèm
 
 ---
 
@@ -121,4 +121,4 @@ Dự án này được lấy ý tưởng từ [Grow Africa, Grow Cardano](https:
 - [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#heading=h.dmu4wfbk1ion)
 - [Challenge setting 2.0 - Introducing challenge teams](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
 
-- [Community Advisor Guide](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
+- [Hướng dẫn tư vấn cộng đồng](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
