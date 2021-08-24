@@ -1,4 +1,4 @@
-# Proposer outreach
+# Menjangkau para pengaju proposal
 
 How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
 
