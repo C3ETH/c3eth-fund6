@@ -1,6 +1,6 @@
-# Fund7 challenge setting: Grow East Asia, Grow Cardano
+# Đề xuất thử thách Fund7: Phát triển Đông Á, Phát triển Cardano
 
-## Proposal Challenge
+## Thách thức dự án
 
 [Fund7 challenge setting](https://github.com/C3ETH/c3eth-fund6/blob/main/fund7-challenge-setting/campaign-brief.md) (Fund Size: $5,400,000 in Ada)
 
