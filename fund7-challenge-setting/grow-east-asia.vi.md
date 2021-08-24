@@ -2,54 +2,54 @@
 
 ## Thách thức dự án
 
-[Fund7 challenge setting](https://github.com/C3ETH/c3eth-fund6/blob/main/fund7-challenge-setting/campaign-brief.md) (Fund Size: $5,400,000 in Ada)
+[Đề xuất thách thức Fund7](https://github.com/C3ETH/c3eth-fund6/blob/main/fund7-challenge-setting/campaign-brief.md) (Số quỹ: $5,400,000 Ada)
 
-> What Challenges should the community prioritize to address in Fund7?
+> Những thử thách nào mà cộng đồng nên ưu tiên để giải quyết trong Fund7?
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26120) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified).
+[Trang dự án](https://cardano.ideascale.com/a/campaign-home/26120) và[duyệt ý tưởng](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26120/stage/unspecified).
 
-[ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
+[Dự án Catalyst khu vực phía Đông](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
 [![hackmd-github-sync-badge](https://hackmd.io/t3Fzp0X1RX6NxtuMITAP1g/badge)](https://hackmd.io/t3Fzp0X1RX6NxtuMITAP1g)
 
-## Proposers:
+## Người viết dự án:
 
 - Steve Lockhart ([@archangelbob](https://cardano.ideascale.com/a/pmd/3058271-48088?))
-- Eastern Townhall ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
+- Phòng họp khu vực phía Đông ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
 
-### Additional proposers to be discussed.
+### Thành viên đóng góp cho dự án.
 
 - Robert O'Brien ([@wolstaeb](https://cardano.ideascale.com/a/pmd/3056857-48088?))
-- [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
+- [*Vui lòng điền tên của bạn vào danh sách và hồ sơ Ideascale nếu bạn muốn trở thành người viết dự án.*]
 
 ---
 
-# Grow East Asia, Grow Cardano
+# Phát triển Đông Á, Phát triển Cardano
 
-## Challenge question:
-How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
+## Câu hỏi thách thức:
+Làm cách nào để phát triển hệ sinh thái Cardano ở Đông Á một cách toàn diện, đa dạng và theo hướng hỗ trợ? Giống như cách chúng tôi làm ở Châu Phi, tập trung vào sáng kiến và triển khai!
 
-## Why is it important?
-The Cardano community is heavily based in North America and Europe. Growth elsewhere requires our support and initiative as a community.
+## Tại sao nó lại quan trọng?
+Cộng đồng Cardano có nhiều trụ sở ở Bắc Mỹ và Châu Âu. Phát triển ở những nơi khác yêu cầu sự hỗ trợ của chúng tôi và những sáng kiến từ cộng đồng.
 
-## How does success look like?
-A wide spectrum of people from Asia or with connections to Asia coming together and forming teams to grow our ecosystem.
+## Thành công sẽ trông như thế nào?
+Một số lượng lớn người từ Châu Á hoặc có liên hệ với Châu Á sẽ cùng nhau tạo những nhóm để phát triển hệ sinh thái của chúng ta.
 
-## Key Metrics to measure
+## Các chỉ số chính để đo lường
 
-- The quantity and quality of funded proposals as well as the impact observed.
-- A steady increase in SPOs and transactions in East Asia.
-- Number of East Asian participants
-- Number of Outside East Asian participants with a significant partnership with East Asia residents
-- Feedback on progress from successful proposals regardless of failure or success
-- Novelty and appropriateness of solutions (hard to quantify, easy to see)
-- Number of East Asia Fund7 proposals that do not need further funding to keep operating
+- Số lượng và chất lượng của những dự án đã được tài trợ cũng như các tác động chúng ta có thể thấy được.
+- Sự phát triển bền vững của SPOs và các giao dịch ở Đông Á.
+- Số lượng của người tham gia ở Đông Á
+- Số lượng người tham dự ở ngoài Đông Á có liên hệ với cư dân ở Đông Á
+- Phản hồi về tiến độ từ những dự án thành công bất kể thất bại hay thành công
+- Tính cải tiến và tính khả thi của giải pháp (khó định lượng, dễ thấy)
+- Số lượng dự án Đông Á Fund7 không cần tài trợ thêm để triển khai
 
-## Challenge brief
+## Tóm tắt Thách Thức
 
-As in Africa, raising the awareness levels of regular people in East Asia about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to me to be why we work together, doesn't it?
+Cũng như ở Châu Phi, nâng cao mức nhận thức của mọi người ở Đông Á về công nghệ blockchain và giao thức Cardano nên được ưu tiên trong cộng đồng Catalyst. Cung cấp kinh phí cho những người tìm hiểu về protocal của chúng tôi để tận dụng protocal và sự hỗ từ cộng đồng dường như là lý do tại sao chúng tôi cùng làm việc với nhau, phải không?
 
-The overwhelming majority of stake pools are based in North America and Europe. The Cardano protocol will be much more resilient and productive for people all around the world when the Catalyst community steps up and intentionally funds people around the world.
+Một số lượng lớn các bể đào nằm ở Bắc Mỹ và Châu Âu. Giao thức Cardano sẽ linh hoạt và hiệu quả hơn nhiều đối với người dùng trên toàn thế giới khi cộng đồng Catalyst tăng trưởng và tài trợ cho mọi người trên khắp thế giới.
 
 Addressing these different parts of the world directly through funding challenges such as this gives them access to our community and thereby a means of support as they engage with the Cardano ecosystem.
 
