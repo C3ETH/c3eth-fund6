@@ -1,61 +1,61 @@
-# Value Onboarding: Eastern Townhall Outreach
+# Catalyst への価値のオンボーディング：東半球タウンホールアウトリーチ
 
-## Value Onboarding
+## Catalyst への価値のオンボーディング
 
-[Value Onboarding](https://github.com/C3ETH/c3eth-fund6/blob/main/catalyst-value-onboarding/campaign-brief.md) (Fund Size: **$75,000 in Ada**)
+[Catalyst への価値のオンボーディング](https://github.com/C3ETH/c3eth-fund6/blob/main/catalyst-value-onboarding/campaign-brief.md) (予算規模: **$75,000 in Ada**)
 
-> How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
+> 次の2つのFUNDでコミュニティメンバーからのProject Catalystへの有意義な参加を促進するにはどうすればよいでしょうか?
 
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
+[キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26106) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified)。
 
 **TBD** [ETH Catalyst Proposal]()
 
 [![hackmd-github-sync-badge](https://hackmd.io/d2QVYuj-Q3qRmm22nL-Qcw/badge)](https://hackmd.io/d2QVYuj-Q3qRmm22nL-Qcw)
 
-## Proposers:
+## 提案者:
 
-- Eastern Townhall ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
+- 東半球タウンホール ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
 
-### Additional proposers to be discussed.
+### 追加の提案者については議論されています
 
-- [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
+- [*提案者になりたい場合は、こちらのリストとアイディアケールのプロフィールに名前を追加してください。*]
 
 ---
 
-# Proposal Title
+# 提案タイトル
 
 [**NOTE**: 35 Character Limit]
 
-## Problem statement
+## プログラムステートメント
 
 [**NOTE**: 140 Character Limit]
 
 ![](https://i.imgur.com/LHYBpln.png)
 
-## Describe your solution to the problem
+## 問題に対する解決策を説明してください
 
 [**NOTE**: 140 Character Limit]
 
 ![](https://i.imgur.com/xBjrh1k.png)
 
-## Relevant experience
+## 関連する経験
 
 [**NOTE**: 140 Character Limit]
 
 ![](https://i.imgur.com/pkCUM0g.png)
 
-## Website/GitHub repository
+## Website/GitHub レポジトリ
 
 https://c3eth.github.io/
 
-## Co-submitters
+## 共同提出者
 
-## Media (YouTube link)
+## メディア (YouTube リンク)
 
 https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
-## Detailed plan (not required) - Fill in here any additional details
+## 詳細プラン(必須ではありません) - 詳細を記入してください
 
 [Who will benefit]
 
@@ -80,23 +80,23 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 [Requested funds in USD]
 
-## Acknowledgements
+## 謝辞
 
-## References
+## 参照
 
-## Attachments
+## 添付ファイル
 
 ---
 
-## Guides for Completing this template (REMOVE)
+## このテンプレートを完成させるためのガイド (REMOVE)
 
-- [Project Catalyst Challenge Team Guide](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
+- [Project Catalyst チャレンジチームガイド](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
 
-- [Project Catalyst Challenge and Proposal Guide](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/)
+- [ProjectCatalyst チャレンジ設定および提案ガイド](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/)
 
-- [Catalyst School Proposer's Guide](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/)
+- [Catalyst School 提案者ガイド](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/)
 
 - [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#heading=h.dmu4wfbk1ion)
-- [Challenge setting 2.0 - Introducing challenge teams](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
+- [チャレンジ設定 2.0 - チャレンジチームの導入](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
 
-- [Community Advisor Guide](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
+- [コミュニティアドバイザーガイド](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
