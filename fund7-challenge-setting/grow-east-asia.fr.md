@@ -10,6 +10,8 @@
 
 [ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Grow-Southeast-Asia-Grow-Cardano/367250-48088)
 
+[![hackmd-github-sync-badge](https://hackmd.io/t3Fzp0X1RX6NxtuMITAP1g/badge)](https://hackmd.io/t3Fzp0X1RX6NxtuMITAP1g)
+
 ## Proposers:
 
 - Steve Lockhart ([@archangelbob](https://cardano.ideascale.com/a/pmd/3058271-48088?))
