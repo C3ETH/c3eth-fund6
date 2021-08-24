@@ -80,11 +80,11 @@ Cardanoは東南アジア(日本と香港)でその人生を始まりました�
 
 ## インパクト:
 
-**インパクト**: エチオピア政府の協定が発表された直後に資金5が開始され、その勢いに乗っていきます Along with this major announcement, South-East Asia has more underutilised talent than this proposal can possibly support but it has unlimited potential to uncover them and get them seen around the world. It is the right time for this community challenge to change the world with maximum effect.
+**インパクト**: エチオピア政府の協定が発表された直後に資金5が開始され、その勢いに乗っていきます この主要な発表に加えて、東南アジアには、この提案がサポートできる以上の十分に活用されていない才能がありますが、それらを発見し、世界中で見られるようにすることで、無限の可能性が広がります。 世界を最大限に変えるこのコミュニティのチャレンジを打ち出す適切な時期です。
 
-**Feasibility**: South-East Asia is poised for technology focussed growth (see video above), has over 600 technology hubs spread across the continent and is home to 4 of the top 20 fastest growing economies in the world.
+**実現可能性**: 東南アジアは技術に焦点を当てた成長に適応しており(上記のビデオを参照)、600以上のテクノロジーハブが大陸に広がっており、世界で最も急速に成長している20カ国のうち4カ国があります。
 
-**Auditability**: Like all community proposals it relies on the results of the challenge it proposes to truly prove itself, but the metrics it proposes could give an early indication of how successful it is.
+**監査可能性**: すべてのコミュニティ提案と同様に、まさにその提案の結果にがそれを示します。 しかしそれが提案する指標はそれがどれだけ成功したかを早期に示すことができます。
 
 **予算**: 注目と重要な提案を引き付けるには十分に大きいが、他のコミュニティの提案が資金調達を求めることが可能である程度には十分に小さい。
 
