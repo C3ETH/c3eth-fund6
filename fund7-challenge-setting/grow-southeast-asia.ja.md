@@ -1,54 +1,54 @@
-# Grow East Asia, Grow Cardano
+# アジアを育て、Cardanoを育てる
 
-## Challenge question:
-How do we grow the Cardano ecosystem in East Asia in an inclusive, diverse and supportive way? The same way we do in Africa, focused initiatives and implementations!
+## チャレンジの質問:
+包括的で多様で支援的な方法で、東アジアのCardanoエコシステムをどのように成長させるのか。 私たちがアフリカで行うのと同じように、イニシアチブと実装に焦点を当てましょう!
 
-## Why is it important?
-The Cardano community is heavily based in North America and Europe. Growth elsewhere requires our support and initiative as a community.
+## なぜ重要なのか？
+Cardanoコミュニティは北米とヨーロッパに拠点を置いています。 他の場所での成長には、コミュニティとしての我々の支援とイニシアチブが必要です。
 
-## How does success look like?
-A wide spectrum of people from Asia or with connections to Asia coming together and forming teams to grow our ecosystem.
+## 成功するとどのような未来が見えますか？
+私たちのエコシステムを成長させるために集まってチームを形成するアジアからの、またはアジアとのつながりを持つ幅広い人々。
 
-## Key Metrics to measure
+## 測定する主要なメトリック
 
-The quantity and quality of funded proposals as well as the impact observed.
+資金提供された提案の量と質だけでなく、観察された影響。
 
-A steady increase in SPOs and transactions in East Asia.
+東アジアにおけるSPOとトランザクションの着実な増加。
 
-## Challenge brief
+## チャレンジの概要
 
-As in Africa, raising the awareness levels of regular people in East Asia about blockchain technology and the Cardano protocol should be a priority for the Catalyst community. Providing the funding for those people who learn about our protocol to take advantage of the protocol and the support the community offers seems to me to be why we work together, doesn't it?
+アフリカのように ブロックチェーン技術とCardanoプロトコルについて東アジアの一般的な人々の意識レベルを上げることは、Catalystコミュニティの優先事項です。 プロトコルとコミュニティが提供するサポートを活用するために私たちのプロトコルについて学ぶ人々に資金を提供すること、これこそ私たちが一緒に働く理由のように思えます、そうではありませんか？
 
-The overwhelming majority of stake pools are based in North America and Europe. The Cardano protocol will be much more resilient and productive for people all around the world when the Catalyst community steps up and intentionally funds people around the world.
+圧倒的多数のステークプールは、北米とヨーロッパに拠点を置いています。 Cardanoプロトコルは、Catalystコミュニティがステップアップし、世界中の人々に意図的に資金を供給する際に、世界中の人々にとってより強靱で生産的なものになります。
 
-Addressing these different parts of the world directly through funding challenges such as this gives them access to our community and thereby a means of support as they engage with the Cardano ecosystem.
+このような資金調達のチャレンジを通じて世界のこれらのさまざまな地域に直接取り組むことで、地域の人々は私たちのコミュニティにアクセスできるようになり、それによってCardanoエコシステムに関与する際のサポート手段が得られます。
 
-The amount of funding which is proposed equals 6.25 % of the total available for Fund 7. The suggestion is that this is a nice percentage to use as a guide for future rounds when funding increases for all of the challenges that focus on specific regions.
+提案されている資金の額は、Fund7の利用可能な総額の6.25%に相当します。 この提案は、特定の領域に焦点を当てたすべての課題に対して資金調達が増加する場合に、将来のラウンドのガイドとして使用するための素晴らしい割合がこれであるということです。
 
-## What this is:
+## このプロジェクトは何ですか？
 
-A call to activate the Cardano community's ability to recognise, risk and reward this opportunity to make the world a better place.
+世界をより良い場所にするために、この機会を認識し、リスクを冒し、報酬を与えるCardanoコミュニティの能力を活性化するための呼びかけ。
 
-## What this is not:
+## このプロジェクトはこうではありません。
 
-This is not a proposal that needs active work by the proposers, it is a vision that needs votes to become an achievement. If it succeeds the beneficiary is the whole Cardano community. It is a call to close our prejudices and open our eyes, hearts and minds to good people who lack the environmental benefits many of us were born with. Giving them an opportunity to show that circumstances are not something they need charity to rise above and succeed. All that is required is the equal opportunity to succeed or fail that many of the rest of us enjoy, but with their hinderances and hurdles lessened and their choices remaining in their own hands.
+これは提案者によって積極的な仕事を必要とする提案ではありません、それは達成に至るための投票を必要とするビジョンです。 それが成功した場合は、受益者はCardano全体のコミュニティです。 それは私たちの偏見を閉じ、私たちの多くが生まれてきた環境上の利益を欠いている善良な人々に私たちの目、心、そして心を開くための呼びかけです。 良い方向となり成功するためには、慈善団体が必要ではないことを示す機会となります。 必要なのは、他の多くの人が享受している成功または失敗の機会均等ですが、障害やハードルが軽減され、選択肢は自分たちの手に委ねられていることも必要です。
 
-## Regardless of whether it succeeds or fails:
+## 成功するか失敗するかにかかわらず:
 
-I have had my eyes opened and my mind changed about the potential of South-East Asia. From South-East Asia's bankers in the west, ex-pats with vision and heart, youth with passions, documentaries that challenged my assumptions and Cardano community members with so much to give. From South-East Asia's bankers in the west, ex-pats with vision and heart, youth with passions, documentaries that challenged my assumptions and Cardano community members with so much to give.
+私は目を開け、東南アジアの可能性について考えを変えました。 東南アジアの銀行家から、ビジョンと心を持った元パット、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。 東南アジアの銀行家から、ビジョンと心を持った元パット、情熱を持った若者、私の仮定とCardanoコミュニティのメンバーに多くのことを与えることに挑戦したドキュメンタリーです。
 
-Thank you to all of you who have commented and interacted with me over the last few weeks.
+ここ数週間、私とコメントし交流してくださった皆さん、ありがとうございました。
 
-## Impact
+## インパクト:
 
-**Impact**: Fund5 will get underway shortly after the Ethiopian government deal is likely to have been announced and will build on its momentum. Along with this major announcement, South-East Asia has more underutilised talent than this proposal can possibly support but it has unlimited potential to uncover them and get them seen around the world. It is the right time for this community challenge to change the world with maximum effect.
+**インパクト**: エチオピア政府の協定が発表された直後に資金5が開始され、その勢いに乗っていきます この主要な発表に加えて、東南アジアには、この提案がサポートできる以上の十分に活用されていない才能がありますが、それらを発見し、世界中で見られるようにすることで、無限の可能性が広がります。 世界を最大限に変えるこのコミュニティのチャレンジを打ち出す適切な時期です。
 
-**Feasibility**: South-East Asia is poised for technology focussed growth (see video above), has over 600 technology hubs spread across the continent and is home to 4 of the top 20 fastest growing economies in the world.
+**実現可能性**: 東南アジアは技術に焦点を当てた成長に適応しており(上記のビデオを参照)、600以上のテクノロジーハブが大陸に広がっており、世界で最も急速に成長している20カ国のうち4カ国があります。
 
-**Auditability**: Like all community proposals it relies on the results of the challenge it proposes to truly prove itself, but the metrics it proposes could give an early indication of how successful it is.
+**監査可能性**: すべてのコミュニティ提案と同様に、まさにその提案の結果にがそれを示します。 しかしそれが提案する指標はそれがどれだけ成功したかを早期に示すことができます。
 
-**Budget**: Large enough to attract attention and significant proposals, but small enough to allow other community proposals to seek funding
+**予算**: 注目と重要な提案を引き付けるには十分に大きいが、他のコミュニティの提案が資金調達を求めることが可能である程度には十分に小さい。
 
-## Acknowledgements
+## 謝辞
 
-This proposal is a direct copy of the [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) proposed by @grebel and @archangelbob and is now one of the many [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108). 
+この提案は [アフリカを育て、Cardanoを育てる](https://cardano.ideascale.com/a/dtd/Grow-Africa-Grow-Cardano/333079-48088) （提案者は @grebel and @archangelbob ）のコピーであり、そこは多くの [Catalyst Challenges](https://cardano.ideascale.com/a/campaign-home/26108) の１つになっています。 
