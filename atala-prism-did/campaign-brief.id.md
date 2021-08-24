@@ -10,30 +10,30 @@ Dana Tersedia: **$250,000 dalam Ada**
 
 Menawarkan cara untuk mendorong adopsi massal pengunaan DID sebagai metode-yang-mudah-digunakan untuk mengenalkan ekosistem Cardano (lebih disukai melalui Atala PRISM ketika sudah siap diluncurkan). Ini dapat termasuk metode apapun yang akan menawarkan pengguna atau instansi sebuah ID yang terdesentralisasi untuk memulai memberi arti terhadap kedaultan diri. Pikirkan bagaimana caranya ini dapat di implementasi secara skalatis untuk membawa masuk jutaan pengguna yang, begitu sudah memakai, dapat menjadi pelanggan untuk dApps, aneka tools, DeFi dan berbagai macam servis lainnya.
 
-Kita adalah sebuah komunitas yang terdiri dari pemikir-pemikir unggulan dan sudah saatnya kita menunjukkan pemikiran kita menjadi tindakan nyata. Using a Decentralized Identification (DID) technology to establish self-sovereign presence and ownership of Personally Identifiable Information (PII) advances decentralization of institutions; benefiting individuals and entities.
+Kita adalah sebuah komunitas yang terdiri dari pemikir-pemikir unggulan dan sudah saatnya kita menunjukkan pemikiran kita menjadi tindakan nyata. Menggunakan teknologi Identifikasi Desentralisasi (IDD) untuk mewujudkan kehadiran dan kepemilikan mandiri atas Informasi Personal Teridentifikasi (IPT) mendorong terdesentralisasinya institusi, yang memberikan manfaat untuk individu dan instansi.
 
-This Challenge is about small ways we can incorporate DIDs into the Cardano ecosystem to start the ground swell at the grassroots that demands PII be secured and controlled with DID technologies and standards.
+Tantangan ini adalah tentang cara-cara sederhana dimana kita dapat mengadopsi IDD kedalam ekosistem Cardano untuk memulai gerakan akar rumput yang mendorong IPT agar terlindungi dan terkontrol melalui teknologi dan standar-standar IDD.
 
-It is about **signaling to the world** that the Cardano community plans mass-adoption of DID that is interchangeable, interoperable (by WW DID standards) and **we care deeply that the origin of our personal DID is tied to our home blockchain—Cardano.**
+Ini adalah tentang **memberikan sinyal ke dunia** bahwa komunitas Cardano merencanakan adopsi massal dari IDD yang dapat ditukarkan dan dioperasikan (oleh standar IDD secara global) dan **bahwa kita peduli dengan sangat bahwa asal usul dari IDD pribadi terikat dengan blockchain kita - Cardano.**
 
-While we prefer to support Atala PRISM's instantiation of DID, this is more about building ideas and concepts that require DID to draw users to the Cardano platform. And since PRISM is building to the open standards, those are available for anyone to imagine possibilities and offer proposals.
+Walaupun kita lebih menyukai untuk mendukung pengaplikasian IDD oleh Atala PRISM, ini adalah lebih tentang membangun ide dan konsep yang membutuhkan IDD untuk mendorong pengguna ke panggung Cardano. Dan karena PRISM membangun dirinya menuju standar yang terbuka, menjadikannya tersedia untuk siapapun untuk membayangkan segala kemungkinan dan akhirnya menawarkan proposal.
 
-It won't be lost on IOHK how the community responses to this Challenge. Should IOHK see a ground swell of great ideas and proposals, that could help them justify expediting timelines for their planned open sourcing of PRISM components.
+Tidak akan sia-sia tanggapan komunitas atas Tantangan ini. Apabila IOHK melihat ada banyak ide dan proposal hebat, itu akan dapat membantu mereka membenarkan percepatan waktu pelaksanaan atas rencana mereka membuat komponen PRISM menjadi open source.
 
-## Why is it important?
+## Kenapa ini penting?
 
-Atala PRISM DID is a gateway to the Cardano blockchain and ecosystem. Building technology and marketecture that on-boards users is crucial.
+Atala PRISM IDD adalah gerbang menuju blockchain Cardano dan ekosistemnya. Membangun teknologi dan rencana pemasaran yang mendorong pertumbuhan pengguna adalah kunci.
 
-## How does success look like?
+## Bagaimana penampakan sukses?
 
-Many high quality ideas will be proposed that can substantially grow Cardano's user-base, network-utility, network-value & ADA circulation.
+Banyak proposal berkualitas tinggi yang akan diajukan serta dapat secara substansial menumbuhkan pengguna Cardano, utilitas jaringan, nilai jaringan; serta sirkulasi ADA.
 
-## Key Metrics to measure
+## Ukuran kunci untuk diukur
 
-- The number of proposals that directly address DID use cases in a quantifiable manner.
-- The quality of proposals measured by community interest and engagement.
-- Results of any Fund7 funded projects significantly impacting mass-scale adoption of DID's and their utility on the Cardano blockchain.
+- Jumlah proposal yang secara langsung menjawab penggunaan nyata IDD yang dapat dihitung dengan jelas.
+- Kualitas proposal yang diukur dari ketertarikan dan komunikasi dengan komunitas.
+- Hasil dari proyek apapun yang terdanai pada Fund7 secara signifikan meningkatkan adopsi IDD dan kegunaan mereka pada blockchain Cardano.
 
-## References
+## Referensi
 
-1. [Original challenge setting proposal](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)
+1. [Sumber awal Proposal Tantangan yang Ditentukan](https://cardano.ideascale.com/a/dtd/Atala-PRISM-DID-Mass-Scale-Adoption/350613-48088)
