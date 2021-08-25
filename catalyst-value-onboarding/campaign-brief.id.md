@@ -1,48 +1,48 @@
-# Catalyst value onboarding
+# Peningkatan partisipasi di Catalyst
 
-How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
+Bagaimana kita dapat mendorong partisipasi berarti dalam Project Catalyst dari anggota komunitas dalam dua fund berikutnya?
 
-Fund Size: **$75,000 in Ada**
+Dana tersedia: **$75,000 dalam Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26106) dan [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
 
-## Campaign Brief
+## Penjelasan Singkat Kampanye
 
-The growth of Cardano depends on meaningful participation from proposers, advisors, and voters.
+Pertumbuhan Catalyst tergantung pada partisipasi bermakna dari pengaju proposal, penasihat dan pemilih.
 
-## How success looks like
+## Bagaimana penampakan sukses
 
-There's a strong funnel to motivate, inform and direct new participants towards providing a contribution that improves Catalyst's ROI.
+Ada satu corong untuk memotivasi, menginformasi dan mengarahkan partisipasi baru terhadap pemberian kontribusi yang memperbaiki ROI Catalyst.
 
-## Key metric to measure
+## Ukuran kunci untuk diukur
 
-To assess ROI of this challenge we will ask ourselves:
+Untuk menilai sebuah ROI dari tantangan ini kita akan menanyakan diri kita:
 
-Did we manage to increase meaningful participation from proposers, advisors, and voters?
+Apakah kita berhasil meningkatan partisipasi berarti dari pengaju proposal, penasihat dan pemilih?
 
-Out of total number of new participants:
+Dari jumlah total dari partisipasi baru:
 
-What % active community advisers?
+Berapa % community advisor yang aktif?
 
-What % watch townhalls?
+Berapa % menonton townhall?
 
-What % vote?
+Berapa % melakukan voting?
 
-What % proposes?
+Berapa % mengajukan proposal?
 
-What % becomes a referrer?
+Berapa % menjadi pihak yang mereferensi?
 
-## Guiding questions
+## Pertanyaan pembimbing
 
-- How can we increase meaningful participation from proposers, advisors, and voters?
-- How do new people learn about Catalyst?
-- How can we provide a central source of constantly updated information in different formats(text, video, p2p)?
+- Bagaimana kita dapat meningkatkan partisipasi bermakna dari pengaju proposal, penasihat dan pemilih?
+- Bagaimana orang baru belajar tentang Catalyst?
+- Bagaimana kita dapat menyediakan satu sumber informasi yang terupdate secara konsisten dalam berbagai format (teks, video, p2p)?
 
-## Potential directions
+## Potensial pengembangan
 
-- Education and onboarding through timely YouTube content
-- Better user experience through hardware wallet support, Daedalus/yoroi support ect.
-- Reddit presence offering reliable information.
+- Pendidikan dan peningkatan keterlibatan melalui konten YouTube yang berkala
+- Pengalaman penggunaan dari penguna yang lebih baik melalui dukungan hardware wallet, dukungan Daedalus/Yoroi dst.
+- Kehadiran Reddit yang menawarkan informasi yang dapat diandalkan.
 - Mentoring programs matching veteran Catalysts and new Catalysts.
 
 ## Prior Challenges
