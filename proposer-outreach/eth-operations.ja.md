@@ -1,48 +1,47 @@
-# 提案者アウトリーチ: 東半球タウンホールの運営
+# Proposer Outreach : Connect East Asian Entrepreneurs
 
 ## 提案者アウトリーチ
 
-[提案者アウトリーチ](https://github.com/C3ETH/c3eth-fund6/blob/main/proposer-outreach/campaign-brief.md)(予算規模: **$100,000 in Ada**)
+[Proposer Outreach](https://github.com/C3ETH/c3eth-fund6/blob/main/proposer-outreach/campaign-brief.md) (Fund Size: **$100,000 in Ada**)
 
-> Catalystコミュニティが次の2つのCatalystラウンドで分散型意思決定をより良くするためにどのように支援することができますか?
+> How can we encourage entrepreneurs from outside the Cardano ecosystem to submit proposals to Catalyst in the next two funds?
 
 [キャンペーンページ](https://cardano.ideascale.com/a/campaign-home/26105) と [アイデアの閲覧](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified)。
 
-**TBD** [ETH Catalyst Proposal]()
+[ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
 
 [![hackmd-github-sync-badge](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA/badge)](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA)
+
+### Budget Spreadsheet
+
+[C3ETH Proposal(s) Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1BeMc7BW9NFVSWPomM3j4Iv5I7Eveb24P-dFhFOUrCvo/edit?usp=sharing)
 
 ## 提案者:
 
 - 東半球タウンホール ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
+- Yan Tirta ([Yan Tirta](https://cardano.ideascale.com/a/pmd/3058061-48088))
 
-### 追加の提案者については議論されています
+### Eastern Townhall Wallet
 
-- [*提案者になりたい場合は、こちらのリストとアイディアケールのプロフィールに名前を追加してください。*]
+**TODO** Need to setup a ETH multisig wallet!
 
 ---
 
 # 提案タイトル
 
-[**NOTE**: 35 Character Limit]
+Connect East Asian Entrepreneurs
 
 ## プログラムステートメント
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/LHYBpln.png)
+There are no initiatives to attract and engage East Asian entrepreneurs where they are, in their local language.
 
 ## 問題に対する解決策を説明してください
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/xBjrh1k.png)
+Use the Eastern Town Hall & targeted virtual events to establish and support a network of East Asian entrepreneurs.
 
 ## 関連する経験
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/pkCUM0g.png)
+Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
 
 ## Website/GitHub レポジトリ
 
@@ -55,6 +54,8 @@ https://c3eth.github.io/
 https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 ## 詳細プラン(必須ではありません) - 詳細を記入してください
+
+Details to be completed. Budget to be advised, a random figure is in the funds.
 
 [Who will benefit]
 
@@ -77,8 +78,6 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
     [Intellectual Property]
     [Budget]
 
-[Requested funds in USD]
-
 ## 謝辞
 
 ## 参照
@@ -87,7 +86,71 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 ---
 
-## このテンプレートを完成させるためのガイド (REMOVE)
+## Discussion Notes (DISTILL for Proposal Writing)
+
+**Recap notes :**
+
+
+**Member's input :** Held 4 times with participation from Japan, South Korea, Indonesia and Vietnam. Experienced members. [100 char]
+
+> Seomon questions where is Australia?
+
+**Yan's input :** Seasoned members form Project Catalyst and Catalyst Swarm with Eastern Townhall members from Japan, Vietnam, Indonesia and South Korea. [135 char]
+
+
+**Member's input :** Eastern Hemisphere Proposer Event [33 char]
+
+> Should be about helping proposers develop proposals/Eastern Townhalls etc.
+
+**Yan's input :** ETH Entrepreneurs Coaching Clinic [32 char]
+
+[**NOTE**: 35 Character Limit]
+
+
+
+Attract & engage East Asian entrepreneurs via Eastern Town Hall & virtual events & F2F to encourage participation.
+
+Use Eastern Town Hall & virtual events to establish a growing network of East Asian entrepreneurs [98 char]
+
+
+**Mie's input** : Establish a marketing campaign to bring proposers in.
+
+**Yuta's input :** Introducing promising proposals for each language, workshops, and invitations to the prospective community. [103 char]
+
+**Seomon's input :** Organising the Eastern Townhall where entrepreneurs can share information and hold workshops as well as listen to and interact with guests. [131 char]
+
+**Yan's input :** Introducing coaching clinics on :
+* underlying technology
+* potential use-cases
+* available talent pool and funding
+* proposal workshops [137 char]
+
+**Greg's input :** Engage East Asian entrepreneurs & developers via Eastern Town Hall and associated events, where they are, in their local language.
+
+
+
+**Tim's input** : Work in with Universities!
+
+**Robert's effort** : Kris Braid and his contacts.
+
+**Seomon's input** : Overlaps with IdeaFest.
+
+
+[**NOTE**: 140 Character Limit]
+
+![](https://i.imgur.com/xBjrh1k.png)
+
+**Yan's input :** Despite all Cardano's technological and economical perks not many East Asian Entrepreneurs know of this or it's various potential use-case. [140 char]
+
+
+[Coming Soon]
+
+> We do not have time until the first proposal deadline, so we will submit it once in "Coming Soon" and provide details during the improvement phase.
+
+
+---
+
+## Guides for Completing this template (REMOVE)
 
 - [Project Catalyst チャレンジチームガイド](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
 
