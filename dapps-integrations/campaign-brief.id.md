@@ -1,6 +1,6 @@
-# DApps & Integrations
+# Dapps & Integrasinya
 
-What applications will provide the most value for end users in 2021?
+Aplikasi apa yang akan memberikan benefit paling untuk pengguna di tahun 2021?
 
 Fund Size: **$250,000 in Ada**
 
