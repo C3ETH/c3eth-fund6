@@ -26,7 +26,7 @@ Atala PRISM IDD adalah gerbang menuju blockchain Cardano dan ekosistemnya. Memba
 
 ## Bagaimana penampakan sukses?
 
-Banyak proposal berkualitas tinggi yang akan diajukan serta dapat secara substansial menumbuhkan pengguna Cardano, utilitas jaringan, nilai jaringan; serta sirkulasi ADA.
+Banyak proposal berkualitas tinggi yang akan diajukan serta dapat secara substansial menumbuhkan pengguna Cardano, utilitas jaringan, nilai jaringan serta sirkulasi ADA.
 
 ## Ukuran kunci untuk diukur
 
