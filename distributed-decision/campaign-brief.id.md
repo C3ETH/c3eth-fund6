@@ -1,48 +1,48 @@
-# Distributed decision making
+# Pembuatan keputusan yang terdistribusi
 
-How can we help the Catalyst community to get better at distributed decision making within the next two Catalyst rounds?
+Bagaimana kita dapat membantu komunitas Catalyst untuk dapat lebih baik membuat keputusan yang terdistribusi dalam dua fund Catalyst berikutnya?
 
-Fund Size: **$75,000 in Ada**
+Dana tersedia: **$75,000 dalam Ada**
 
-[Campaign page](https://cardano.ideascale.com/a/campaign-home/26104) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
+[Halaman kampanye](https://cardano.ideascale.com/a/campaign-home/26104) and [jelajahi ide](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
 
-## Campaign Brief
+## Penjelasan Singkat Kampanye
 
-High-quality and decentralized decision-making, will increase treasury ROI and legitimize decentralized governance.
+Pembuatan-keputusan yang berkualitas tinggi serta terdesentralisasi, akan meningkatan keefektifan Return of Intent dan melegitimasi sistem pemerintahan yang terdesentralisasi.
 
-## How success looks like
+## Bagaimana penampakan sukses
 
-The community is consciously improving decision-making processes while growing a group of committed and collaborative leaders.
+Komunitas secara sadar meningkatkan proses pembuatan-keputusan sambil menumbuhkan sebuah kelompok yang berkomitmen dan pemimpin yang bersifat kolaboratif.
 
-## Key metrics to measure
+## Ukuran kunci untuk diukur
 
-- To assess ROI of this challenge we will ask ourselves: Did we get better at distributed decision making?
-- Community confidence: avg rating or % of Catalyst members who approve of overall results of a funding round.
-- Community participation: number of Catalyst participants contributing to improving Catalyst decision making systems
-- Measured overall
-- Impact of individual initiatives
-- Proof of iteration: round over round, is there evidence that "pain points" are evolving? (Failure would look like seeing the same problems emerging each funding round)
-- Re-election rates: if proposers receive subsequent funding, this can be seen as a sign of success
-- Embracing failure: is the community able to see value in & learn from proposals that did not work out?
+- Untuk mengukur Return of Intent dari tantangan ini, kita akan menanyakan diri kita sendiri: Apakah kita menjadi lebih baik dalam membuat keputusan yang terdistribusi?
+- Kepercayaan diri komunitas: rating rata-rata atau % dari anggota Catalyst yang menyetujui hasil total dari sebuah proses fund.
+- Partisipasi komunitas: jumlah anggota Catalyst yang berpartisipasi dalam memberikan kontribusi yang meningkatkan sistem pembuatan keputusan dalam Catalyst
+- Terukur secara keseluruhan
+- Dampak dari inisiatif individu
+- Bukti dari iterasi: dari satu fund hingga fund lainnya, apakah ada bukti bahwa "titk kritis" selalu mengalami pertumbuhan? (Kegagalan akan nampak seperti melihat masalah yang sama muncul dari satu fund ke fund lainnya)
+- Tingkat terpilihnya kembali: jika seorang pengaju proposal terus-menerus menerima funding, ini dapat dilihat sebagai tanda telah sukses
+- Menerima kegagalan: apakah komunitas mampu melihat nilai dan belajar dari proposal yang tidak berhasil?
 
-## Guiding questions
+## Pertanyaan pembimbing
 
-How do we encourage people to participate in decision making?
+Bagaimana kita dapat mendorong orang-orang untuk dapat berpartisipasi dalam pembuatan keputusan?
 
-How do we ensure the group of decision makers is diverse and accessible to newcomers?
+Bagaimana kita dapat memastikan kelompok pembuatan keputusan beranekaragam dan dapat diakses oleh pendatang baru?
 
-How can we ensure that the Catalyst process keeps iterating to improve?
+Bagaimana kita dapat memastikan proses Catalyst terus beriterasi menuju perbaikan demi perbaikan?
 
-How will we include the community in decision making?
+Bagaimana kita dapat mengikutsertakan komunitas dalam pembuatan keputusan?
 
-## Potential directions
+## Potensial pengembangan
 
-- Software that supports decision making or iteration
-- Experiments in social, collaboration, or meeting structures that encourage improved decision making
-- Community advisor training
-- Low effort ways to engage voters in assessing proposals and tapping into existing insights.
+- Perangkat lunak yang dapat mendukung pembuatan keputusan atau sebuah iterasi
+- Bereksperimen dalam struktur sosial, kolaborasi atau pertemuan yang mendorong perbaikan pembuatan keputusan
+- Pelatihan community advisor
+- Usaha dengan tenaga rendah untuk mendorong partisipasi pemilih dalam menilai proposal dan untuk mengetahui pengetahuan perilaku mendalam yang sedang terjadi.
 
-## Prior Campaigns
+## Kampanye sebelumnya
 
-1. [Fund 5 Distributed decision making](https://cardano.ideascale.com/a/campaign-home/25942)
-2. [Fund 4 Distributed decision making](https://cardano.ideascale.com/a/campaign-home/25870)
+1. [Fund 5 Pembuatan keputusan yang terdistribusi](https://cardano.ideascale.com/a/campaign-home/25942)
+2. [Fund 4 Pembuatan keputusan yang terdistribusi](https://cardano.ideascale.com/a/campaign-home/25870)
