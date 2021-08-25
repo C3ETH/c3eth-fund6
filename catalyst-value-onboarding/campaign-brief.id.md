@@ -43,9 +43,9 @@ Berapa % menjadi pihak yang mereferensi?
 - Pendidikan dan peningkatan keterlibatan melalui konten YouTube yang berkala
 - Pengalaman penggunaan dari penguna yang lebih baik melalui dukungan hardware wallet, dukungan Daedalus/Yoroi dst.
 - Kehadiran Reddit yang menawarkan informasi yang dapat diandalkan.
-- Mentoring programs matching veteran Catalysts and new Catalysts.
+- Program mentor yang mempertemukan veteran Catalyst dengan anggota Catalyst baru.
 
-## Prior Challenges
+## Tantangan Sebelumnya
 
-1. [Fund5: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25944)
-2. [Fund4: Catalyst value onboarding](https://cardano.ideascale.com/a/campaign-home/25872)
+1. [Fund 5: Peningkatan partisipasi di Catalyst](https://cardano.ideascale.com/a/campaign-home/25944)
+2. [Fund 4: Peningkatan partisipasi di Catalyst](https://cardano.ideascale.com/a/campaign-home/25872)
