@@ -1,4 +1,4 @@
-# Value Onboarding: Eastern Townhall Outreach
+# Value Onboarding : Sustain the Eastern Townhall
 
 ## Value Onboarding
 
@@ -6,44 +6,42 @@
 
 > How can we encourage meaningful participation in Project Catalyst from community members in the next two funds?
 
-
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26106) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26106/stage/unspecified).
 
-**TBD** [ETH Catalyst Proposal]()
+[ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088)
 
 [![hackmd-github-sync-badge](https://hackmd.io/d2QVYuj-Q3qRmm22nL-Qcw/badge)](https://hackmd.io/d2QVYuj-Q3qRmm22nL-Qcw)
+
+### Budget Spreadsheet
+
+[C3ETH Proposal(s) Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1BeMc7BW9NFVSWPomM3j4Iv5I7Eveb24P-dFhFOUrCvo/edit?usp=sharing)
 
 ## Proposers:
 
 - Eastern Townhall ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
+- Yuta Yuta ([yutazz](https://cardano.ideascale.com/a/pmd/3054432-48088?))
 
-### Additional proposers to be discussed.
+### Eastern Townhall Wallet
 
-- [*Please add your name to the list and ideascale profile here if you want to be a proposer.*]
+**TODO** Need to setup a ETH multisig wallet!
 
 ---
 
 # Proposal Title
 
-[**NOTE**: 35 Character Limit]
+Sustain the Eastern Townhall
 
 ## Problem statement
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/LHYBpln.png)
+The Eastern Townhall depends entirely on voluntarily contribution and support at present. This limits further growth.
 
 ## Describe your solution to the problem
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/xBjrh1k.png)
+A pool of managed funds, reported back in a transparent manner, supporting East Asian community events and meaningful participation.
 
 ## Relevant experience
 
-[**NOTE**: 140 Character Limit]
-
-![](https://i.imgur.com/pkCUM0g.png)
+Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software Engineering. educators and accountant in East Asia & Japan.
 
 ## Website/GitHub repository
 
@@ -56,6 +54,8 @@ https://c3eth.github.io/
 https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 ## Detailed plan (not required) - Fill in here any additional details
+
+Details to be completed. Budget to be advised, a random figure is in the funds.
 
 [Who will benefit]
 
@@ -78,13 +78,67 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
     [Intellectual Property]
     [Budget]
 
-[Requested funds in USD]
+[Requested funds in USD]: $10000
 
 ## Acknowledgements
 
 ## References
 
 ## Attachments
+
+---
+
+## Discussion Notes (DISTILL for Proposal Writing)
+
+> ETH is not funded, and we need support funding support! 
+> Setup a treasury and reporting approach around how the funds a distributed.
+
+
+**Member's input :** Held 4 times with participation from Japan, South Korea, Indonesia and Vietnam. Experienced members. [100 char]
+
+**Yan’s input :** Seasoned members form Project Catalyst and Catalyst Swarm with Eastern Townhall members from Japan, Vietnam, Indonesia and South Korea. [135 char]
+
+Resource a distributed support structure that provides the positions and funds needed.
+
+A set of communities who host events that provides service to the Eastern Hemisphere.
+
+Create a pool of funds where to use of it is reported back in a transparent manner.
+
+A pool of funds for the Eastern Townhall whose use is reported back to the Catalyst community tranparently
+
+A set of communities who host events that enables participation in the Eastern Hemisphere.
+
+
+**Member's input :** Meet-up to convey the importance and procedure of Catalyst from various perspectives in a familiar language. [108 char]
+
+**Yan's input :** Personal approach with various influencers and KOL's to add to their crypto content repertoire with Cardano and Project Catalyst. [129 char]
+
+[**NOTE**: 35 Character Limit]
+
+Eastern Townhall requires your support
+
+Continue the Eastern Townhall
+
+> Simply put it's about Organising Eastern Halls.
+
+**Yan's input :** Eastern Townhall Cardano Meet-Up [32 char]
+
+Fund the Eastern Townhall
+
+
+> ETH is not funded, and we need support!
+> 
+**Yan's input** : Project Catalyst needs to be marketed and documented in ways that can be easily accepted by the general public. (111 char) 
+
+https://t.me/ProjectCatalystChat/53776
+
+**Member's input :** Eastern Hemisphere Catalyst Meet-Up [35 char]
+
+**Yuta:** The reasons for non-voting are almost incomprehensible ⇨ Lack of procedural explanation [87 char]
+
+[Coming Soon]
+
+> We do not have time until the first proposal deadline, so we will submit it once in "Coming Soon" and provide details during the improvement phase.
 
 ---
 
