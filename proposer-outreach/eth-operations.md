@@ -57,9 +57,9 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
 
-Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way to governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, poke, push, and mould new ways of doing.
+Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way to governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
 
-Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. Despite all of Cardano's technical and economic benefits for creating opportunity, few East Asian entrepreneurs know of it; Nor understand how to apply the technology, and community, to address local market opportunities. We want to change that.
+Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. This can result in unrealized startup funding opportunities. Few East Asian entrepreneurs are aware of the opportunities and the technical, economic benefits of Cardano; Nor is there a full understanding of how to apply Cardano technology within local communities to address local market opportunities. We want to change that.
 
 ### The Team
 
@@ -69,9 +69,9 @@ We are working with Venture Centre[1], IdeaFest[2], and Catalyst School[3]; as p
 
 ### Proposed Solution: Cardano StartUp Week
 
-This proposal is about running a virtual event in January/February 2022 to develop entrepreneurs in either Vietnam or Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano. 
+This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano. 
 
-**The purpose of the event is to build startup founders and Distributed Autonomous Organisation (DAO) collaborators.** Our aim is not to build startups! It is educational. Focussed on experience-based learning by providing a soft way for the general public to access entrepreneurship and blockchain technology without risk.
+**The purpose of the event is to build startup founders and Distributed Autonomous Organisation (DAO) collaborators.** We are not building startups! Our intent is to educate. Focusing on experience-based learning by providing a soft way for the general public to access entrepreneurship and blockchain technology without risk.
 
 The event will happen over four weeks:
 
@@ -81,11 +81,11 @@ The event will happen over four weeks:
 
 **Learn and Work (Week 3 & 4)**: Over the next two weeks, teams start working together. Mentors are assigned. Special sessions are run with experts. Teams are encouraged to validate their ideas with potential customers. Throughout the two weeks, each team will have four 30min pitch sessions with a panel of mentors that help them refine their pitch and Catalyst Proposal.
 
-**Pitch (End of Week 4)**: All participants come together for the closing event. The pitch! Each team is given five minutes to present their market problem and their solution to a panellist that ask questions. To pitch every team must have submitted their proposal to Catalyst. When all presentations are given we pick a winning team. There may be prizes. We celebrate and at the conclusion of Fund 8, Catalyst Voters choose who to fund!
+**Pitch (End of Week 4)**: All participants come together for the closing event. The pitch! Each team is given five minutes to present their market problem and their solution to a panellist that ask questions. To pitch every team must have submitted their proposal to Catalyst. When all presentations are given the audience will pick the winning teams. Prizes will be awarded. We all celebrate! At the conclusion of Fund 8, Catalyst Voters choose who to fund.
 
-The event will be focused on Cardano Blockchain solutions and place an emphasis on using Business Model Generation and Customer Development approaches; and analytical tools like Lean Startup, the Platform Design Toolkit, and Wardley Mapping.
+The event will focus on Cardano Blockchain solutions and place emphasis on using Business Model Generation, Customer Development approaches and the use of analytical tools like Lean Startup, the Platform Design Toolkit, and Wardley Mapping.
 
-By the time the proposals are submitted in Fund 8, teams will have been formed, worked together, done customer testing, and will have developed robust business models. By the time the proposals are submitted teams will be ready to dive into technical development and customer development.
+By the time proposals are submitted in Fund 8, entrepreneurial teams will have formed, worked together, finished customer testing, and developed robust business models.
 
 TODO: Budget, KPIs and Additional Details to be added.
 
