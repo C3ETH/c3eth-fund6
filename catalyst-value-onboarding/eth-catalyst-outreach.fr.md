@@ -73,7 +73,7 @@ The Eastern Townhall is the result of individuals and groups working together. E
 
 **TODO: Include** [Team Bio](https://hackmd.io/@c3eth-team/HkgAw-wWY/edit)
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[3] and other community groups across Asia.
+The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[2] and other community groups across Asia.
 
 ### Proposed Solution: Pool of Funds
 
