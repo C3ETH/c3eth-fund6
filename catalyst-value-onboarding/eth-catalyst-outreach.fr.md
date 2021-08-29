@@ -116,7 +116,15 @@ Help us scale and reach more people across the Eastern Hemisphere.
 
 ## References
 
-[1] Catalyst Swarm: http://catalystswarm.com/ [2] Catalyst School: https://linktr.ee/CatalystSchool [3] How DAOs should approach treasury management: https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury [4] Index Coop Q3 Financial Report: https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629 [5] FWB DAO Financial Report (PDF): https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0
+[1] Catalyst Swarm: http://catalystswarm.com/
+
+[2] Catalyst School: https://linktr.ee/CatalystSchool
+
+[3] How DAOs should approach treasury management: https://newsletter.banklesshq.com/p/how-daos-should-approach-treasury
+
+[4] Index Coop Q3 Financial Report: https://medium.com/indexcoop/index-coop-q3-financial-report-summary-1eda1a2ee629
+
+[5] FWB DAO Financial Report (PDF): https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0
 
 ## Attachments
 
