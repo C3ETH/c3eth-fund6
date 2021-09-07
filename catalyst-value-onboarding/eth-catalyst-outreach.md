@@ -10,18 +10,10 @@
 
 [![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Sustain-the-Eastern-Townhall/369124-48088) [![hackmd-github-sync-badge](https://img.shields.io/badge/Collaborate-HackMD-green)](https://hackmd.io/d2QVYuj-Q3qRmm22nL-Qcw)
 
-### Budget Spreadsheet
-
-[C3ETH Proposal(s) Budget Spreadsheet](https://docs.google.com/spreadsheets/d/1BeMc7BW9NFVSWPomM3j4Iv5I7Eveb24P-dFhFOUrCvo/edit?usp=sharing)
-
 ## Proposers:
 
 - Eastern Townhall ([@easterntownhall](https://cardano.ideascale.com/a/pmd/3100214-48088?))
 - Yuta Yuta ([yutazz](https://cardano.ideascale.com/a/pmd/3054432-48088?))
-
-### Eastern Townhall Wallet
-
-**TODO** Need to setup a ETH multisig wallet!
 
 ---
 
@@ -43,7 +35,7 @@ Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software 
 
 ## Website/GitHub repository
 
-https://c3eth.github.io/
+https://c3eth.github.io/catalyst/fund6/eth-proposals/eastern-townhall-team-operation/
 
 ## Co-submitters
 
@@ -61,7 +53,9 @@ The Eastern Townhall is a community-driven initiative growing Cardano in the Eas
 * Show how to use Cardano to increase our economic wellbeing.
 * Enrich Cardano's ecosystem with our stories, our energy, and our perspectives.
 
-The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano. 
+The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano.
+
+PLEASE NOTE: TRANSLATIONS IN OF THIS PROPOSAL ARE AVAILABLE ON THE EASTERN TOWNHALL WEBSITE
 
 ### Current Problems and Limitation
 
@@ -119,7 +113,6 @@ By Fund: Surveys will be conducted in each eastern community to count the number
 2. Financial management, progress management, monitoring and reporting activities, other new member recruiting activities, etc .: $ 500 x 6 months = **$3,000**
 3. Common expenses: Expenses incurred across multiple projects (domain name, hosting costs, Zoom): **$1,000**
 
-
 Total: (1) ＋ (2) ＋ (3): $18,400
 
 ▲ Discount: $8,400
@@ -161,50 +154,3 @@ We have demonstrated our ability to grow Catalyst participation in the Easted He
 [5] FWB DAO Financial Report (PDF): https://www.dropbox.com/s/po8qyk71aj3zfpc/FWB%20July%20Financial%20report%20published.pdf?dl=0
 
 [6] Catalyst Fund6 submission phase analysis - https://forum.cardano.org/t/catalystfund6-submission-phase-analysis/70711
-
-## Attachments
-
----
-
-## Discussion Notes
-
-The proposal is about managing a pool of funds ($10K USD) to help fund the work of the Eastern Townhall. 
-
-ETH is not funded, and we need support funding support! We hope to develop a set of communities who host events that provides service to the Eastern Hemisphere.
-
-Simply put this proposal is about Organising Eastern Halls. Establishing a resource a distributed support structure that provides the positions and funds needed. So setup a treasury and reporting approach around how the funds a distributed. A pool of funds for the Eastern Townhall whose use is reported back to the Catalyst community tranparently
-
-The intent of the proposal is essentially about prototyping DAO treasury management[1].
-
-In the proposal, we are asking the community to give us $10K USD to spend at our discretion. On expenses like offering translation bounties; production of content; paying for online service subscriptions such as Zoom, Github, HackMD; paying for activities related to organising the eastern town hall.
-
-In return, we promise to report back our activities and expenses regularly. This is typical for all funded projects but I think we lead here.
-
-We will need to produce a monthly report. Similar in intent to the work being done by index.coop[2] and FWB[3].
-
-> How do we manage the money? What deserves treasury spending and what doesn’t? How should we diversify the treasury’s assets? Should we borrow capital?
->
-> Most DAOs are still figuring this out. The best practices are being written. We are all exploring this new frontier together.
-
-Learning how the Eastern Town Hall is spending and allocating funds will help us attract more funding. Help collaborators identify opportunities to work with us. Help us scale and reach more people.
-
-[1] How DAOs should approach treasury management.
-
-[2] Index Coop Q3 Financial Report
-
-[3] FWB DAO Financial Report (PDF)
-
----
-
-## Guides for Completing this template (REMOVE)
-
-- [Project Catalyst Challenge Team Guide](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/)
-
-- [Project Catalyst Challenge and Proposal Guide](https://docs.google.com/document/d/1oE_cnP0gksdAanXV4w5DYaDNp_tbYEvyHhTUG4HYZ3Q/)
-
-- [Catalyst School Proposer's Guide](https://docs.google.com/document/d/12wk6mIPxeGsw2WxqHvkTkjNj_wCIx46AgTNPVX3-38o/)
-
-- [Project Catalyst FAQ](https://docs.google.com/document/d/1qYtV15WXeM_AQYvISzr0a0Qj2IzW3hDvhMBvZZ4w2jE/edit#heading=h.dmu4wfbk1ion)
-- [Challenge setting 2.0 - Introducing challenge teams](https://docs.google.com/document/d/1GDCKOysG1dd4nUXYcio3PY889doGrbC34PFggu8FI20/edit?pli=1#heading=h.dxixtumushib)
-
-- [Community Advisor Guide](https://docs.google.com/document/d/13GDOj2vuxZzQttagfgnS3hbnP65xsSsWbf_6TURLI_U/edit#)
