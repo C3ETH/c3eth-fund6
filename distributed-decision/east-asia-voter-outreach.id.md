@@ -8,9 +8,7 @@
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26104) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26104/stage/unspecified).
 
-[ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088)
-
-[![hackmd-github-sync-badge](https://hackmd.io/BDEjbwlmTyuhSkfBgfVbVQ/badge)](https://hackmd.io/BDEjbwlmTyuhSkfBgfVbVQ)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connecting-Asian-Voters-Proposers/369063-48088) [![hackmd-github-sync-badge](https://img.shields.io/badge/Collaborate-HackMD-green)](https://hackmd.io/BDEjbwlmTyuhSkfBgfVbVQ)
 
 ### Budget Spreadsheet
 
@@ -45,7 +43,7 @@ Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software 
 
 ## Website/GitHub repository
 
-https://c3eth.github.io/
+https://c3eth.github.io/catalyst/fund6/eth-proposals/connect-asian-voters-proposers/
 
 ## Co-submitters
 
@@ -58,6 +56,8 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured)
 
 Voting on how Catalyst spends the treasury creates long-term value to ADA, but with so many proposals, with so many new concepts, how do we make any voting decision? Now imagine how difficult it must be when you do not speak English. All Ada holders benefit if we develop better more inclusive and diverse governance processes and strategies. Unless the Catalyst Community and Ada holders level up our collective cognition, a random voting strategy is just as valid as a well researched one.
 
+**PLEASE NOTE: TRANSLATIONS IN OF THIS PROPOSAL ARE AVAILABLE ON THE EASTERN TOWNHALL WEBSITE**
+
 ### Current Problems and Limitation
 
 Language differences and cultural exclusivity prevents governance initiatives from scaling globally. The constant experimentation of Catalyst means we need to be mindful to include different languages and cultures. Avoiding one culture dominating the narrative.
@@ -68,47 +68,155 @@ Misaligned incentives, scams and information overload prevent Ada holders from v
 
 **TODO: Include** [Team Bio](https://hackmd.io/@c3eth-team/HkgAw-wWY/edit)
 
-The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[1], and Catalyst School[3] and other community groups across Asia.
+The team represents the initial Eastern Town Hall **trusted seed**. There are no roles, no leaders. Rather people establish themselves over time, through participation. We overlap and collaborate with Catalyst Swarm[2], and Catalyst School[3] and other community groups across Asia.
 
 ### Proposed solution: Eastern Townhall Goverance Forum
 
 Our goal is to establish a process, format, and event stage for voter and proposer onboarding. To bring voters, proposers, and proposals closer together. To establish trust between them. The focus is on six mutually reinforcing areas:
 
-1. Content production: Help Ada holders understanding why it is important to vote on proposals.
-2. Eastern Hemisphere Language-specific events focused on voter education and discussion.
-3. A proposal language translation pipeline to help proposers reach the wider East Asian community.
-4. Language-specific Catalyst Swarm Ideafests as a stage for building voter awareness, engagement, and trust.
-5. Social Media Marketing: socialise voter content and messaging across our social media channels; and
-6. Conduct routine surveys and user research to help understand individual attitudes to Catalyst and proposal formats.
+1. **Content production**: Help Ada holders understanding why it is important to vote on proposals.
+2. **Eastern Hemisphere Language-specific events** focused on voter education and discussion.
+3. A proposal **language translation pipelin**e to help proposers reach the wider East Asian community.
+4. **Language-specific Catalyst Swarm Ideafests** as a stage for building voter awareness, engagement, and trust.
+5. **Social Media Marketing**: socialise voter content and messaging across our social media channels; and
+6. Conduct **routine surveys and user research** to help understand individual attitudes to Catalyst and proposal formats.
 
 The proposal is seeking funds to help develop a programme specifically designed to help connect voters with proposals and proposers.
 
 Together these activities form a programme we call the Eastern Townhall Forum. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more. We are doing translations, building community, sharing knowledge, educating, enabling entrepreneurs, and growing Cardano.
 
-The Eastern Townhall trusted seed are an active part of our Cardano ecosystem. Listening and engaging with members of the community. Sharing what we learn. For instance **Yuta Yuta** recently completed one of his many surveys of the Japanese community that this proposal draws. We want to do more of this across all the communities. We would like to help improve the user experience for voters. Feeding our collective insights back into Project Catalyst.
+The Eastern Townhall trusted seed are an active part of our Cardano ecosystem. Listening and engaging with members of the community. Sharing what we learn. For instance **Yuta Yuta** recently completed one of his many surveys of the Japanese community[1] that this proposal draws. We want to do more of this across all the communities. We would like to help improve the user experience for voters. Feeding our collective insights back into Project Catalyst.
 
 Help us improve decision making across the Eastern Hemisphere by making Catalyst voting more accessible.
 
-TODO: Budget, KPIs and Additional Details to be added.
+## What Success Looks Like
+1. Project Catalyst Voting Participants from Eastern Hemisphere increases 30% from previous Fund
+2. Easter Townhall weekly Zoom Participants average increases 25% from previous Fund
+3. All Project Catalyst Proposals available in 4 Eastern Hemisphere languages *(ID, JP, KR, VN)*
+4. First Eastern Townhall - Catalyst Swarm IdeaFests followed by all Eastern Hemisphere Participants
+5. Eastern Townhall IG account followers after 6 action plans increases by 1000 new followers
+6. Eastern Townhall Monthly Scheduled Polls to obtain Big Data analystics on 4 Eastern Hemisphere countries *(ID, JP, KR, VN)*
 
-[Additional Details]
 
-![](https://i.imgur.com/vkgS32e.png)
 
-    [What Success Looks Like]
-    [KPIs]
-    [Roadmap]
-    [Milestones] 
-    [Intellectual Property]
-    [Budget]
+## KPIs
+**1. Videographer :**
+* Promote voter education through 5 (five) 90 second video content done by 3rd week of 2nd month
 
-## Acknowledgements
+**2. Graphic Designer :**
+* Support Zoom events through designing 2 (two) Zoom background and 2 (two) poster notification done by 1st week 1st month
+* Promote voter education through social media Instagram until end of 3rd month with schedule as following :
+    * IG stories (1/day)
+    * IG reels (3/week)
+    * IG post (24 uploads)
+
+**3. Translators :**
+* Promote voter education through translating all related materials in 4 Eastern Hemisphere languages *(ID, JP, KR, VN)* done by 2nd week of 2nd month
+* Support Catalyst multi-lingual proposal efforts through translated elgible proposals in 4 Eastern Hemisphere languages *(ID, JP, KR, VN)*
+
+**4. Community Manager :**
+* Promote voter education through weekly events continuously until done by 4th week of 3rd month
+* Promote voter education through IdeaFest together with Catalyst Swarm done by 4th week of 3rd month
+
+**5. Project Manager :**
+* Manages all aspect of event from pre-, during to post- to ensure event targets are achieved with >90% achievement rate/punctuality
+
+**6. Admin :**
+* Manages all documentation and reporting aspect of event from pre-, during to post- to ensure event success/failure can be tracked with 100% achievement rate/punctuality
+* Manages community expectation through various polls with >90% achievement rate
+
+**7. Treasury :**
+* Manages all budget tracking and reporting aspect of event with 100% achievement rate
+
+
+
+## Roadmap & Milestones
+**1. Content Creation : Voter Education** done by 3rd week of 2nd month
+
+**2. Content Creation : Language Specific events – Voter Education & Catalyst Swarm** done by 1st week of 1st month
+
+**3. Content Creation : IG Voter Education post** done by 4th week of 3rd month
+
+**4. Content Creation : Translators** done by 4th week of 2nd month
+
+**5. Community Liaisons : Language Specific events – Voter Education** done by 4th week 3rd month
+
+**6. Community Liaisons : Language Specific events – IdeaFest** done on 4th week of 3rd month
+
+**7. Event Management :** Done through out the duration of 3 months
+
+
+
+## Intellectual Property
+
+
+
+## Budget
+**1. Core Personnels : $3.840**
+* Project Manager @1 duration 48 working days
+* Admin @1 duration 48 working days
+* Treasury @1 duration 48 working days
+
+**2. Supporting Personnels : $4.464**
+* Community Manager @1 duration 36 working days
+* Community Leaders @5 duration 36 working days
+* Translators @4 duration 24 working days
+
+**3. Content Creation : Voter Education : $2.800**
+* 90 second  @5 infographic video series
+
+**4. Content Creation : Language Specific events – Voter Education & IdeaFest : $48**
+* Zoom event  @2 background and @2 posters
+
+**5. Content Creation : IG Voter Education post : $1.008**
+* Eastern Townhall IG account :
+    * IG stories : 1/day
+    * IG reels : 3/week
+    * IG post : 24 uploads
+
+**6. Content Creation : Translators : $360**
+* Voter educational materials translated into 5 Eastern Hemisphere languages
+* Project Catalyst proposal translation pipeline
+
+**7. Community Liaisons : Language Specific events – Voter Education : $144**
+* Moderator coordination @1 duration 24 working days
+
+**8. Community Liaisons : Language Specific events – IdeaFest : $72**
+* Moderator coordination @1 duration 12 working days
+
+**9. Event Management : -**
+* Project Manager @1
+* Admin @1
+* Treasury @1
+
+**GRAND TOTAL : $12.736**
+
+*Contingency treasury : $2.264*
+
+
+
+## Requested funds in USD : $15,000
 
 ## References
 
+[1] Japanese community Survey August 2021 - https://t.me/ProjectCatalystChat/53776
+
+[2] [Catalyst Swarm](http://catalystswarm.com/)
+
+[3] [Catalyst School](https://linktr.ee/CatalystSchool)
+
 ## Attachments
 
+The following attached document is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+
 ---
+
+## Yan's Budget Notes
+
+The following attachment is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+**Please find the .doc format :** *(editable)* https://docs.google.com/document/d/1l4hwG6ujWvMUkGNaX4Y3RZf0D3Jiy40_/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
 
 ## Discussion Notes
 
