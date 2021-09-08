@@ -8,9 +8,7 @@
 
 [Campaign page](https://cardano.ideascale.com/a/campaign-home/26105) and [browse ideas](https://cardano.ideascale.com/a/ideas/top/campaign-filter/byids/campaigns/26105/stage/unspecified).
 
-[ETH Catalyst Proposal](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088)
-
-[![hackmd-github-sync-badge](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA/badge)](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA)
+[![Catalyst Proposal Badge](https://img.shields.io/badge/Proposal-Catalyst-blue)](https://cardano.ideascale.com/a/dtd/Connect-East-Asian-Entrepreneurs/369120-48088) [![hackmd-github-sync-badge](https://img.shields.io/badge/Collaborate-HackMD-green)](https://hackmd.io/nP6OvZJYSw29rD3tSgbrxA)
 
 ### Budget Spreadsheet
 
@@ -45,7 +43,7 @@ Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software 
 
 ## Website/GitHub repository
 
-https://c3eth.github.io/
+https://c3eth.github.io/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/
 
 ## Co-submitters
 
@@ -57,7 +55,7 @@ https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
 We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
 
-Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way to governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
+Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way of governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
 
 Reaching Entrepreneurs is difficult when language and cultural barriers exist. Local context may also have undeveloped startup funding programmes too. This can result in unrealized startup funding opportunities. Few East Asian entrepreneurs are aware of the opportunities and the technical, economic benefits of Cardano; Nor is there a full understanding of how to apply Cardano technology within local communities to address local market opportunities. We want to change that.
 
@@ -87,20 +85,128 @@ The event will focus on Cardano Blockchain solutions and place emphasis on using
 
 By the time proposals are submitted in Fund 8, entrepreneurial teams will have formed, worked together, finished customer testing, and developed robust business models.
 
-TODO: Budget, KPIs and Additional Details to be added.
+## What Success Looks Like
 
-[Additional Details]
 
-![](https://i.imgur.com/vkgS32e.png)
+### Key Performance Indicators
 
-    [What Success Looks Like]
-    [KPIs]
-    [Roadmap]
-    [Milestones] 
-    [Intellectual Property]
-    [Budget]
+For Entrepreneurs Startup Month, participation:
 
-[Requested funds in USD]: $20,000
+* Reaches 100 individuals that form into at least 20 teams.
+* At least 15 teams submit proposals.
+* At least 3 proposals that are funded in Catalyts Fund 8/9
+
+At the end of the event:
+
+* We have increased our social media presense by 1000 followers.
+* The event is covered by four major media outlets.
+
+## KPIs
+**1. Videographer :**
+* Promote event through 2 (two) 30 second videos done by 1st week of 1st month
+* Promote event through 3 (three) 3 minute videos done by 3rd week of 1st month
+
+**2. Graphic Designer :**
+* Promote event through creation of a landing page on EHT website done by of 4th week of 1st month
+* Promote event through social media Instagram until end of 3rd month with schedule as following :
+    * IG stories (1/day)
+    * IG reels (3/week)
+    * IG post (24 uploads)
+* Support Public Relations through designing @1 goodie bag and @1 short booklet done by 3rd week 1st month
+
+**3. Public Relations**
+* Promote event through PR materials done by 4th week of 1st month
+* Promote event through building relations with @7 medias
+* Achieve PR campaign targeted metrics :
+    * Online press clippings @7 medias
+    * Offline press clippins @3 medias
+    * Media impressions 700,000
+
+**4. Marketing and Communications :**
+* Promote event through collaboration with 1 influencer with 10K followers done by 4th week of 1st month and capture 0,01% of the influencer followers
+* Promote event through paid promotion :
+    * Identify and implement IG ads target, done by 4th week 2nd month and capture 0,0001% of total population targeted
+    * Identify and implement Google ads target, done by 4th week 2nd month and capture 0,0001% of total population targeted
+* Promote event through SEO and web optimization with target 30 views/day
+* Promote event through creation of blog post pre-, during and post-event done by 4th week 3rd month
+* Achieve various marketing targeted metrics
+
+**5. Community Manager**
+* Create an impactful event through identifying and ensuring participation of community collaborators
+* Create an impactful event through identifying and ensuring participation of 0,001% of community hub members identified
+
+**6. Project Manager**
+* Manages all aspect of event from pre-, during to post- to ensure event targets are achieved with >90% achievement rate/punctuality
+
+**7. Admin**
+* Manages all documentation and reporting aspect of event from pre-, during to post- to ensure event success/failure can be tracked with 100% achievement rate/punctuality
+
+**8. Treasury**
+* Manages all budget tracking and reporting aspect of event with 100% achievement rate
+
+
+
+## Roadmap & Milestones
+**1. Content Creation Team**
+* Event video promo 30 second creation done by 1st week of 1st month
+* Event video content 3 minutes creation done by 3rd week of 1st month
+* Event landing page on EHT website creation done by 4th week of 1st month
+* Eastern Townhall IG account creation and maintainance until 4th week of 3rd month
+* Supporting Public Relations done by 3rd week of 1st month
+
+**2. Public Relations**
+* Media Visit goodiebag production done by 4th week of 1st month
+* Media Visit to @7 medias done by 1st week of 2nd month
+* Press Release Pre-Event done by 2nd week of 2nd month
+* Press Release Post-Event done by 4th week of 3rd month
+
+**3. Marketing and Communications :**
+* Influencer Collaboration approach and dealings until 4th week of 3rd month
+* Identify and implement IG ads and Google ads done by 4th week of 2nd month
+* SEO pracitce and blog creation until 4th week of 3rd month
+
+**4. Community Liaisons :**
+Coordinate with moderators, judges, mentors, special guests until 4 week of 3rd month
+
+**5. Event Management :** Done through out the duration of 3 months
+
+## Intellectual Property
+
+All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+ 
+Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Budget
+**1. Core Personnels : $10.106**
+* Project Manager @1 duration 81 working days
+* Admin @1 duration 81 working days
+* Treasury @1 duration working days 81
+* Community Manager @2 duration working days 61
+* Marketing and communications @1 duration working days 61
+* Public relations @1 duration working days 28
+* Moderators @1 duration working days 31
+* Graphic designer @1 duration working days 81
+* Videographer @1 duration working days 21
+
+**2. Supporting Personnels : $3.290**
+* Panel of judges @5 duration working day 1
+* Mentors @5 duration working days 12
+* First Week special guests @5 duration working days 9
+* Second Week special guests @5 duration working days 4
+
+**3. Public Relations item : $97**
+* Media Visit goodie bag production @7
+
+**4. Marketing and Communication items : $4.827**
+* Influencer collaboration
+* IG ads placement
+* Google ads placement
+
+**GRAND TOTAL : $18.320**
+
+*Contingency treasury : $1.680*
+
+## Requested funds in USD: $20,000
 
 ## Acknowledgements
 
@@ -113,6 +219,14 @@ TODO: Budget, KPIs and Additional Details to be added.
 [5] Emurgo
 
 ## Attachments
+
+The following link is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+**Please find the .doc format :**
+*(editable)*
+https://docs.google.com/document/d/1OAOvAG6DMx9WfdsVS97g3NVC_ffTdzik/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
+
+
 
 ---
 
