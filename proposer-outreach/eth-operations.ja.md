@@ -45,15 +45,17 @@ Co-Founders of Catalyst Swarm, Eastern Townhall, Catalyst School. IT & Software 
 
 https://c3eth.github.io/catalyst/fund6/eth-proposals/connect-east-asian-entrepreneurs/
 
-## 共同提出者
-
-## メディア (YouTube リンク)
+## Media (YouTube link)
 
 https://www.youtube.com/channel/UCV2lFD4AtGRT-WIrLoX58lg/featured
 
-## 詳細プラン(必須ではありません) - 詳細を記入してください
+## Detailed plan (not required) - Fill in here any additional details
 
 We want to reach the massive untapped potential of East Asian entrepreneurs. Meet them where they are, in their country, their language and their culture. The Eastern Townhall wants to establish a growing network of East Asian entrepreneurs. Where they can build knowledge, share information, connect and support each other. Thinking global, acting local.
+
+PLEASE NOTE: TRANSLATIONS IN OF THIS PROPOSAL ARE AVAILABLE ON THE EASTERN TOWNHALL WEBSITE
+
+### Current Problems and Limitation
 
 Recall a moment when you realised if you poked something, pushed it or moulded it, something new and interesting popped out the other side. We're here again and this time on a global scale. We, the Cardano Catalyst community are pioneers in a new mindset. A new way of governing and funding. But to make a dent in the universe we need entrepreneurs. People are willing to take a risk, to poke, to push, and to mould new ways of doing.
 
@@ -65,7 +67,7 @@ Reaching Entrepreneurs is difficult when language and cultural barriers exist. L
 
 We are working with Venture Centre[1], IdeaFest[2], and Catalyst School[3]; as part of the proposal, we aim to work with Enterprenerdy[4], Emurgo[5], local Universities, and IOG's Catalyst Team.
 
-### Proposed Solution: Cardano StartUp Week
+### Proposed Solution: Cardano StartUp Month
 
 This proposal is about running virtual events in January/February 2022 to develop entrepreneurs in Vietnam and Indonesia. The event aims to upskill entrepreneurs to develop market opportunities based on Cardano.
 
@@ -87,6 +89,9 @@ By the time proposals are submitted in Fund 8, entrepreneurial teams will have f
 
 ## What Success Looks Like
 
+The event is planned to finish on conclusion of the second week of Catalyst fund 8, Feburary 2022. Teams will be submitting proposals to Catalyst Fund 8 as part of their work.
+
+At the end of the event, at least 15 teams have managed to complete the process and submitted proposals to Catalyst Fund 8. Individuals complete the event with new skills, connections, and inspiration to continue their Cardano journey.
 
 ### Key Performance Indicators
 
@@ -100,6 +105,72 @@ At the end of the event:
 
 * We have increased our social media presense by 1000 followers.
 * The event is covered by four major media outlets.
+
+#### After One Month:
+
+- Event Team formed, project plans and budgets finalised.
+- Event Website and Social Media Accounts established.
+- Event Online registration setup.
+- Event Promotional content (blogs/video) developed.
+- PR and promotion of the event started.
+
+#### After Two Months:
+
+- Mentors, Judges and Registrations all confirmed
+- Event underway and is being run.
+
+#### After Six Months:
+
+- First event successfully completed and we are planning another improved event.
+- Three teams have turned into three funded projects that are activily building on Cardano.
+
+#### After Twelve Months:
+
+- The Cardano Start Month/Week is an established event on the Asian Cardano Calendar.
+
+## Intellectual Property
+
+All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+
+Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Budget
+
+Please see attached proposed plan for a detailed budget breakdown with planned activities.
+
+* Core Team **$10,500 USD:** including project management, content production, comunity management, and adminstration.
+* Supporting Team **$3,500 USD:** Mentors, judges, special guests.
+* Marketing and Communication **$5000 USD:** Media Visit, Influencer collaboration, Google/IG ads
+* Contingency (%5): **$1,000 USD**
+
+## Requested funds in USD: $20,000
+
+## References
+
+[1] Venture Centre: https://www.venturecentre.nz/
+
+[2] IdeaFest: https://catalyst-swarm.gitbook.io/catalyst-swarm-genesis/july-2021/catalyst-idea-fest-july-2021
+
+[3] Catalyst School: Catalyst Swarm: http://catalystswarm.com/
+
+[4] Enterprenerdy: https://entreprenerdy.com/
+
+[5] Emurgo: https://emurgo.io/
+
+## Attachments
+
+The following attached document is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+---
+---
+
+## Discussion Notes
+
+### Yan's full budget, kpis etc.
+
+**Please find the .doc format :** *(editable)* https://docs.google.com/document/d/1OAOvAG6DMx9WfdsVS97g3NVC_ffTdzik/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
+
+
 
 ## KPIs
 **1. Videographer :**
@@ -169,12 +240,6 @@ At the end of the event:
 
 **5. Event Management :** Done through out the duration of 3 months
 
-## Intellectual Property
-
-All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
-
-Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 ## Budget
 **1. Core Personnels : $10.106**
 * Project Manager @1 duration 81 working days
@@ -205,25 +270,7 @@ Our published content is licensed under the [Creative Attribution-Non-Commercial
 
 *Contingency treasury : $1.680*
 
-## Requested funds in USD: $20,000
-
-## Acknowledgements
-
-## References
-
-[1] Venture Centre [2] IdeaFest [3] Catalyst School [4] Enterprenerdy [5] Emurgo
-
-## Attachments
-
-The following link is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
-
-**Please find the .doc format :** *(editable)* https://docs.google.com/document/d/1OAOvAG6DMx9WfdsVS97g3NVC_ffTdzik/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
-
-
-
 ---
-
-## Discussion Notes
 
 Despite all Cardano's technological and economical perks few East Asian Entrepreneurs know of potential uses.
 
