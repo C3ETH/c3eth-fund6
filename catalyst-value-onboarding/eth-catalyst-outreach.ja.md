@@ -55,7 +55,7 @@ The Eastern Townhall is a community-driven initiative growing Cardano in the Eas
 
 The eastern hemisphere, East and Southeast Asia region unite culturally and linguistically a lot of countries. With a population of over 1.6 Billion, our goal is to grow Cardano.
 
-PLEASE NOTE: TRANSLATIONS IN OF THIS PROPOSAL ARE AVAILABLE ON THE EASTERN TOWNHALL WEBSITE
+**PLEASE NOTE: TRANSLATIONS IN OF THIS PROPOSAL ARE AVAILABLE ON THE EASTERN TOWNHALL WEBSITE**
 
 ### Current Problems and Limitation
 
