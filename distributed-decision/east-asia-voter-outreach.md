@@ -76,18 +76,106 @@ Our goal is to establish a process, format, and event stage for voter and propos
 
 1. **Content production**: Help Ada holders understanding why it is important to vote on proposals.
 2. **Eastern Hemisphere Language-specific events** focused on voter education and discussion.
-3. A proposal **language translation pipelin**e to help proposers reach the wider East Asian community.
+3. A proposal **language translation pipeline** to help proposers reach the wider East Asian community.
 4. **Language-specific Catalyst Swarm Ideafests** as a stage for building voter awareness, engagement, and trust.
 5. **Social Media Marketing**: socialise voter content and messaging across our social media channels; and
 6. Conduct **routine surveys and user research** to help understand individual attitudes to Catalyst and proposal formats.
 
 The proposal is seeking funds to help develop a programme specifically designed to help connect voters with proposals and proposers.
 
-Together these activities form a programme we call the Eastern Townhall Forum. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more. We are doing translations, building community, sharing knowledge, educating, enabling entrepreneurs, and growing Cardano. 
+Together these activities form a programme we call the **Eastern Townhall Forum**. Our cornerstone event is the weekly Eastern Townhalls. But we are doing more. We are doing translations, building community, sharing knowledge, educating, enabling entrepreneurs, and growing Cardano. 
 
-The Eastern Townhall trusted seed are an active part of our Cardano ecosystem. Listening and engaging with members of the community. Sharing what we learn. For instance **Yuta Yuta** recently completed one of his many surveys of the Japanese community[1] that this proposal draws. We want to do more of this across all the communities. We would like to help improve the user experience for voters. Feeding our collective insights back into Project Catalyst.
+The Eastern Townhall trusted seed are an active part of our Cardano ecosystem. Listening and engaging with members of the community. Sharing what we learn. For instance **Yuta Yuta** recently completed one of his many surveys of the Japanese community[1] that this proposal draws upon. We want to do more of this across all the communities. We would like to help improve the user experience for voters. Feeding our collective insights back into Project Catalyst.
 
 Help us improve decision making across the Eastern Hemisphere by making Catalyst voting more accessible.
+
+## What Success Looks Like
+
+Participation in Eastern Townhall events has increased and maintains the vibrancy of the new and regular community members. More Catalyst proposers engage with the Asian community. Even if that is just translation of proposals, content, or DApps for the Asian markets. Additionally, Asian proposers find their crowd. They are able to be funded because there is a strong body of Asian voters participating in Catalyst. Survey results show an increase in voter engagement with proposers, the Catalyst process, and deliberations before voting.
+
+### Key Performance Indicators
+
+Our primary tool for measuring performance is our voter survey. We will conduct these on a regular basis across Asian countries. Based on the surveys during and after a fund we expect to:
+
+* Increase Asian voter participation by 30% from the previous funds.
+* Increase Asian participation in Catalyst by 20% from the previous fund.
+* Uncertainty around Catalyst and voting decreases 25% from the previous fund.
+
+The Eastern Townhall Meetup is our primary stage where Ada holders and people interested in Cardano can come and meet community members. Through that platform and social media, people learn and feel comfortable going further. Therefore key engagement metrics indicate our success in bridging voters and proposers together:
+
+* The Easter Townhall meetup average weekly numbers increase 25% for each Fund.
+* Catalyst Proposals available in four languages *(ID, JP, KR, VN)* increase 50% for each fund.
+* Eastern Townhall Social Media accounts increase followers by 1000 new followers in six months.
+
+
+#### After One Month: 
+
+* Completed our first pan-Asia voter survey across four Asian countries *(ID, JP, KR, VN)*
+* Language-Specific events – Voter Education & Catalyst Swarm
+
+#### After Three Months: 
+
+* Produced our Voter Education videos
+* Translated Catalyst voter materials in four Asain languages *(ID, JP, KR, VN)*
+* Held the first formal language specific Eastern Townhall - Catalyst Swarm IdeaFests. (A test run for Fund 6 is being done to find our feet).
+
+#### After Six Months: 
+
+* Completed six voter surveys across four Asian countries *(ID, JP, KR, VN)*
+* Completed a retrospective on our activities.
+
+#### After Twelve Months:
+
+* We have incorporated the content and practices need to engage with Asian voters and proposers.
+* Our monthly surveys continue and show forward momentum.
+* Our content continues to engage members of the community
+* We have translated our content and Catalyst material to more languages across Asia.
+
+## Intellectual Property
+
+All our source code is licensed under the Apache License 2.0 - see our [LICENSE](https://github.com/c3eth/c3eth.github.io/main/LICENSE.md) file for details.
+ 
+Our published content is licensed under the [Creative Attribution-Non-Commercial-ShareAlike (CC BY-NC-SA) License v4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+## Budget
+
+Please see the attached proposed plan for a detailed budget breakdown with planned activities. 
+
+* Core Team **$4,000 USD:**
+Including project management and adminstration. 
+* Supporting Team **$5,000 USD:**
+Community Managers/Leaders, Moderators, and Interpreters
+* Graphics and Video Content Production **$4500 USD:**
+Educational videos, social media posters/video, and translations 
+* Contingency (%10): **$1,500 USD**
+
+Labour costs are a lot lower in Vietnam and Indonesia we are able to do more. However, these costs need to be normalised to a global median for kind work/skill. Not everyone lives in Vietnam/Indonesia.
+
+## Attachments
+
+The following attached document is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+## Requested funds in USD: $15,000
+
+## References
+
+[1] Japanese community Survey August 2021 - https://t.me/ProjectCatalystChat/53776
+
+[2] [Catalyst Swarm](http://catalystswarm.com/)
+
+[3] [Catalyst School](https://linktr.ee/CatalystSchool) 
+
+
+
+
+---
+---
+
+## Yan's Budget Notes
+
+The following attachment is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
+
+**Please find the .doc format :** *(editable)* https://docs.google.com/document/d/1l4hwG6ujWvMUkGNaX4Y3RZf0D3Jiy40_/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
 
 ##  What Success Looks Like
 1. Project Catalyst Voting Participants from Eastern Hemisphere increases 30% from previous Fund
@@ -144,11 +232,6 @@ Help us improve decision making across the Eastern Hemisphere by making Catalyst
 **6. Community Liaisons : Language Specific events – IdeaFest** done on 4th week of 3rd month
 
 **7. Event Management :** Done through out the duration of 3 months
- 
- 
-
-## Intellectual Property
-   
 
 
 ## Budget
@@ -193,30 +276,7 @@ Help us improve decision making across the Eastern Hemisphere by making Catalyst
 
 *Contingency treasury : $2.264*
 
-
-
-## Requested funds in USD : $15,000
-
-## References
-
-[1] Japanese community Survey August 2021 - https://t.me/ProjectCatalystChat/53776
-
-[2] [Catalyst Swarm](http://catalystswarm.com/)
-
-[3] [Catalyst School](https://linktr.ee/CatalystSchool) 
-
-## Attachments
-
-The following attached document is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
-
-
 ---
-
-## Yan's Budget Notes
-
-The following attachment is the in-depth overview of the following; **What Success Looks Like, KPIs, Roadmap, Milestones and Budget.**
-
-**Please find the .doc format :** *(editable)* https://docs.google.com/document/d/1l4hwG6ujWvMUkGNaX4Y3RZf0D3Jiy40_/edit?usp=sharing&ouid=116783838297278560675&rtpof=true&sd=true
 
 ## Discussion Notes
 
